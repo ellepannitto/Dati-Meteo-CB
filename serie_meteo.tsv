@@ -1,0 +1,1438 @@
+Giorno	Mese	Anno	Stazione	Temp_max	Temp_min	Temp_med	Hum_max	Hum_min	Hum_med	Rain_mm	Wind_int	Wind_dir
+16	1	2017	 Campobasso, Guardialfiera e Termoli	4.6	0.9	2.8	NA	NA	89.0	9.33	12.43	NW
+17	1	2017	 Campobasso, Guardialfiera e Termoli	5.9	2.07	3.9	NA	NA	91.33	12.13	9.3	N
+18	1	2017	 Campobasso, Guardialfiera e Termoli	5.5	2.4	3.87	NA	NA	95.33	39.13	15.4	NV
+19	1	2017	 Campobasso, Guardialfiera e Termoli	3.9	2.3	3.07	NA	NA	93.33	22.07	16.93	NV
+20	1	2017	 Campobasso, Guardialfiera e Termoli	5.0	3.53	4.13	NA	NA	93.67	2.33	6.3	NV
+21	1	2017	 Campobasso, Guardialfiera e Termoli	6.9	4.23	5.33	NA	NA	95.33	2.47	3.33	NNE
+22	1	2017	 Campobasso, Guardialfiera e Termoli	6.87	5.13	5.83	NA	NA	95.0	2.2	5.07	NE
+23	1	2017	 Campobasso, Guardialfiera e Termoli	7.0	5.03	6.23	NA	NA	92.67	7.47	8.23	NNW
+24	1	2017	 Campobasso, Guardialfiera e Termoli	7.13	3.7	5.87	NA	NA	87.67	3.4	8.57	NNW
+25	1	2017	 Campobasso, Guardialfiera e Termoli	6.87	2.3	4.7	NA	NA	82.0	0.0	8.43	WNW
+26	1	2017	 Campobasso, Guardialfiera e Termoli	7.13	0.3	3.33	NA	NA	83.67	0.0	5.0	WNW
+27	1	2017	 Campobasso, Guardialfiera e Termoli	7.67	1.17	3.9	NA	NA	81.67	0.07	4.97	ESE
+28	1	2017	 Campobasso, Guardialfiera e Termoli	8.23	1.13	4.2	NA	NA	83.33	0.07	4.17	SW
+29	1	2017	 Campobasso, Guardialfiera e Termoli	9.87	2.03	5.73	NA	NA	79.0	0.0	3.97	SW
+30	1	2017	 Campobasso, Guardialfiera e Termoli	11.17	1.5	5.57	NA	NA	73.67	0.0	1024.27	SW
+31	1	2017	 Campobasso, Guardialfiera e Termoli	12.9	3.13	7.83	NA	NA	71.67	0.0	1022.93	SW
+1	2	2017	 Campobasso, Guardialfiera e Termoli	15.27	7.6	11.23	NA	NA	70.33	0.07	12.5	S
+2	2	2017	 Campobasso, Guardialfiera e Termoli	14.6	8.83	11.6	NA	NA	66.0	0.0	10.47	S
+3	2	2017	 Campobasso, Guardialfiera e Termoli	15.93	10.63	13.13	NA	NA	65.33	0.0	14.07	S
+4	2	2017	 Campobasso, Guardialfiera e Termoli	16.07	11.5	13.8	NA	NA	62.33	0.13	15.57	S
+5	2	2017	 Campobasso, Guardialfiera e Termoli	16.2	11.1	13.5	NA	NA	69.33	0.47	13.4	SSE
+6	2	2017	 Campobasso, Guardialfiera e Termoli	13.53	7.2	10.03	NA	NA	78.0	0.67	10.83	SSE
+7	2	2017	 Campobasso, Guardialfiera e Termoli	10.37	5.4	7.37	NA	NA	88.33	2.2	8.37	NW
+8	2	2017	 Campobasso, Guardialfiera e Termoli	8.43	5.03	6.67	NA	NA	82.33	0.53	3.33	E
+9	2	2017	 Campobasso, Guardialfiera e Termoli	7.6	4.87	6.07	NA	NA	92.0	3.8	6.07	ESE
+10	2	2017	 Campobasso, Guardialfiera e Termoli	11.13	7.27	9.0	NA	NA	93.67	9.93	5.83	SE
+11	2	2017	 Campobasso, Guardialfiera e Termoli	11.43	6.97	8.73	NA	NA	91.33	0.0	3.8	SSE
+12	2	2017	 Campobasso, Guardialfiera e Termoli	10.9	7.8	8.97	NA	NA	89.67	0.07	2.37	SSE
+13	2	2017	 Campobasso, Guardialfiera e Termoli	10.67	7.2	8.67	NA	NA	88.33	0.0	4.3	ESE
+14	2	2017	 Campobasso, Guardialfiera e Termoli	9.73	5.1	7.53	NA	NA	86.33	0.0	8.27	SW
+15	2	2017	 Campobasso, Guardialfiera e Termoli	11.07	3.13	6.67	NA	NA	80.0	0.07	5.67	WNW
+16	2	2017	 Campobasso, Guardialfiera e Termoli	14.87	4.5	8.8	NA	NA	62.33	0.0	5.37	S
+17	2	2017	 Campobasso, Guardialfiera e Termoli	13.87	4.37	8.67	NA	NA	73.0	0.0	6.8	SW
+18	2	2017	 Campobasso, Guardialfiera e Termoli	9.47	4.47	7.47	NA	NA	82.67	3.0	10.67	WSW
+19	2	2017	 Campobasso, Guardialfiera e Termoli	9.83	3.67	6.3	NA	NA	77.0	0.0	10.03	W
+20	2	2017	 Campobasso, Guardialfiera e Termoli	10.97	2.5	6.1	NA	NA	75.33	0.0	5.9	S
+21	2	2017	 Campobasso, Guardialfiera e Termoli	15.2	2.4	8.3	NA	NA	62.33	0.0	6.7	S
+22	2	2017	 Campobasso, Guardialfiera e Termoli	15.63	4.7	9.37	NA	NA	71.33	0.0	6.8	WSW
+23	2	2017	 Campobasso, Guardialfiera e Termoli	15.33	5.57	10.1	NA	NA	74.0	0.0	6.5	SSW
+24	2	2017	 Campobasso, Guardialfiera e Termoli	18.4	10.03	13.67	NA	NA	64.0	0.47	14.73	S
+25	2	2017	 Campobasso, Guardialfiera e Termoli	14.87	6.03	8.77	NA	NA	87.33	8.73	17.87	NW
+26	2	2017	 Campobasso, Guardialfiera e Termoli	11.43	6.87	8.6	NA	NA	76.0	0.0	6.63	SW
+27	2	2017	 Campobasso, Guardialfiera e Termoli	16.5	5.53	10.77	NA	NA	78.0	0.0	5.67	ESE
+28	2	2017	 Campobasso, Guardialfiera e Termoli	17.4	8.73	13.0	NA	NA	62.67	0.13	15.4	S
+1	3	2017	 Campobasso, Guardialfiera e Termoli	16.13	6.33	11.5	NA	NA	68.0	0.27	12.73	ESE
+2	3	2017	 Campobasso, Guardialfiera e Termoli	16.07	5.63	10.6	NA	NA	66.0	0.0	9.03	ESE
+3	3	2017	 Campobasso, Guardialfiera e Termoli	15.7	6.63	11.07	NA	NA	72.33	0.0	6.83	SSE
+4	3	2017	 Campobasso, Guardialfiera e Termoli	18.47	8.07	13.47	NA	NA	63.33	0.33	13.5	SE
+5	3	2017	 Campobasso, Guardialfiera e Termoli	14.73	8.47	11.5	NA	NA	70.33	1.6	11.53	SE
+6	3	2017	 Campobasso, Guardialfiera e Termoli	16.97	8.9	11.77	NA	NA	63.0	0.33	16.4	SE
+7	3	2017	 Campobasso, Guardialfiera e Termoli	12.53	5.37	7.97	NA	NA	85.67	14.93	20.73	NW
+8	3	2017	 Campobasso, Guardialfiera e Termoli	10.57	6.07	8.5	NA	NA	76.67	4.0	33.23	NW
+9	3	2017	 Campobasso, Guardialfiera e Termoli	14.4	7.13	10.83	NA	NA	54.33	0.0	14.4	NW
+10	3	2017	 Campobasso, Guardialfiera e Termoli	14.13	6.37	10.03	NA	NA	63.67	0.47	17.43	WNW
+11	3	2017	 Campobasso, Guardialfiera e Termoli	9.87	5.93	8.23	NA	NA	68.0	0.07	26.57	WNW
+12	3	2017	 Campobasso, Guardialfiera e Termoli	12.43	3.77	7.53	NA	NA	68.67	0.0	8.97	NW
+13	3	2017	 Campobasso, Guardialfiera e Termoli	10.67	3.7	6.87	NA	NA	71.67	0.0	9.83	NNW
+14	3	2017	 Campobasso, Guardialfiera e Termoli	12.57	3.37	7.83	NA	NA	67.67	0.0	11.37	WNW
+15	3	2017	 Campobasso, Guardialfiera e Termoli	11.97	5.87	8.63	NA	NA	70.67	0.0	12.23	NNW
+16	3	2017	 Campobasso, Guardialfiera e Termoli	13.3	6.1	9.7	NA	NA	65.33	0.0	12.83	ESE
+17	3	2017	 Campobasso, Guardialfiera e Termoli	19.57	6.9	13.0	NA	NA	52.67	0.0	8.4	SSE
+18	3	2017	 Campobasso, Guardialfiera e Termoli	20.63	10.43	15.17	NA	NA	51.0	0.0	20.63	WSW
+19	3	2017	 Campobasso, Guardialfiera e Termoli	19.73	10.33	14.23	NA	NA	64.67	0.0	9.47	SSE
+20	3	2017	 Campobasso, Guardialfiera e Termoli	17.1	9.37	12.83	NA	NA	81.0	0.0	6.37	ESE
+21	3	2017	 Campobasso, Guardialfiera e Termoli	17.27	9.0	12.53	NA	NA	84.0	0.07	6.1	NE
+22	3	2017	 Campobasso, Guardialfiera e Termoli	17.53	9.37	12.83	NA	NA	82.33	0.0	5.67	SSW
+23	3	2017	 Campobasso, Guardialfiera e Termoli	18.23	9.63	13.57	NA	NA	76.33	0.0	7.5	ESE
+24	3	2017	 Campobasso, Guardialfiera e Termoli	17.07	9.6	12.87	NA	NA	79.33	0.13	5.1	ESE
+25	3	2017	 Campobasso, Guardialfiera e Termoli	19.63	9.1	14.03	NA	NA	72.0	0.0	6.2	NE
+26	3	2017	 Campobasso, Guardialfiera e Termoli	16.9	10.27	13.17	NA	NA	73.0	0.07	11.57	SSW
+27	3	2017	 Campobasso, Guardialfiera e Termoli	11.07	5.9	8.63	NA	NA	69.67	2.47	14.9	NNW
+28	3	2017	 Campobasso, Guardialfiera e Termoli	13.87	5.07	9.2	NA	NA	66.0	0.0	9.07	NE
+29	3	2017	 Campobasso, Guardialfiera e Termoli	16.43	7.23	12.43	NA	NA	60.0	0.0	9.33	N
+30	3	2017	 Campobasso, Guardialfiera e Termoli	18.53	9.53	14.27	NA	NA	54.0	0.0	12.67	W
+31	3	2017	 Campobasso, Guardialfiera e Termoli	20.17	10.7	15.13	NA	NA	55.67	0.0	7.77	WSW
+1	4	2017	 Campobasso, Guardialfiera e Termoli	23.67	10.57	15.87	NA	NA	53.33	0.0	6.97	SSW
+2	4	2017	 Campobasso, Guardialfiera e Termoli	19.03	9.0	13.67	NA	NA	64.0	0.87	6.53	SSE
+3	4	2017	 Campobasso, Guardialfiera e Termoli	14.03	9.77	11.3	NA	NA	86.0	7.27	11.33	NE
+4	4	2017	 Campobasso, Guardialfiera e Termoli	17.5	8.07	12.57	NA	NA	74.67	0.07	6.13	ENE
+5	4	2017	 Campobasso, Guardialfiera e Termoli	16.23	8.27	12.07	NA	NA	80.33	0.0	5.8	NE
+6	4	2017	 Campobasso, Guardialfiera e Termoli	17.67	8.1	11.57	NA	NA	81.33	3.93	6.23	W
+7	4	2017	 Campobasso, Guardialfiera e Termoli	14.13	8.0	11.33	NA	NA	69.0	0.47	9.43	NW
+8	4	2017	 Campobasso, Guardialfiera e Termoli	17.37	7.33	12.33	NA	NA	59.67	0.0	7.73	E
+9	4	2017	 Campobasso, Guardialfiera e Termoli	18.17	8.63	13.47	NA	NA	61.67	0.0	7.77	E
+10	4	2017	 Campobasso, Guardialfiera e Termoli	21.33	8.97	14.87	NA	NA	60.67	0.0	6.47	SE
+11	4	2017	 Campobasso, Guardialfiera e Termoli	22.23	10.87	15.13	NA	NA	66.0	2.73	7.5	SSE
+12	4	2017	 Campobasso, Guardialfiera e Termoli	18.13	10.27	14.17	NA	NA	74.67	0.0	9.1	NNW
+13	4	2017	 Campobasso, Guardialfiera e Termoli	22.9	11.53	16.17	NA	NA	68.0	0.0	9.3	SSE
+14	4	2017	 Campobasso, Guardialfiera e Termoli	21.7	11.6	16.33	NA	NA	65.33	0.0	9.27	SSE
+15	4	2017	 Campobasso, Guardialfiera e Termoli	21.07	10.9	15.7	NA	NA	69.0	0.0	8.6	SSE
+16	4	2017	 Campobasso, Guardialfiera e Termoli	15.9	10.6	13.73	NA	NA	83.33	1.2	10.43	NNW
+17	4	2017	 Campobasso, Guardialfiera e Termoli	13.93	9.3	11.7	NA	NA	77.67	8.0	12.8	N
+18	4	2017	 Campobasso, Guardialfiera e Termoli	20.13	6.2	13.07	NA	NA	69.0	1.33	14.83	WNW
+19	4	2017	 Campobasso, Guardialfiera e Termoli	8.43	4.27	6.2	NA	NA	83.0	6.33	17.23	NW
+20	4	2017	 Campobasso, Guardialfiera e Termoli	9.4	2.77	6.0	NA	NA	72.33	2.0	18.8	NW
+21	4	2017	 Campobasso, Guardialfiera e Termoli	8.77	3.67	6.3	NA	NA	69.33	0.0	15.27	NNE
+22	4	2017	 Campobasso, Guardialfiera e Termoli	14.97	2.6	8.9	NA	NA	57.0	0.0	8.5	WSW
+23	4	2017	 Campobasso, Guardialfiera e Termoli	17.63	8.03	12.6	NA	NA	67.0	0.0	8.5	SSE
+24	4	2017	 Campobasso, Guardialfiera e Termoli	19.63	8.17	13.8	NA	NA	69.67	0.0	6.67	ESE
+25	4	2017	 Campobasso, Guardialfiera e Termoli	22.17	8.27	15.1	NA	NA	48.33	0.0	7.33	SSE
+26	4	2017	 Campobasso, Guardialfiera e Termoli	23.43	10.17	18.37	NA	NA	45.67	0.0	13.63	SSE
+27	4	2017	 Campobasso, Guardialfiera e Termoli	22.5	15.57	19.1	NA	NA	48.0	0.0	13.67	S
+28	4	2017	 Campobasso, Guardialfiera e Termoli	21.2	13.2	17.17	NA	NA	61.67	0.2	12.73	SE
+29	4	2017	 Campobasso, Guardialfiera e Termoli	14.9	4.37	7.13	NA	NA	54.67	0.4	8.4	NNE
+30	4	2017	 Campobasso, Guardialfiera e Termoli	15.5	6.6	11.13	NA	NA	70.33	0.0	10.8	N
+1	5	2017	 Campobasso, Guardialfiera e Termoli	20.47	7.7	14.13	NA	NA	60.67	0.0	10.63	SSW
+2	5	2017	 Campobasso, Guardialfiera e Termoli	17.2	11.93	14.33	NA	NA	67.33	0.0	6.57	SSE
+3	5	2017	 Campobasso, Guardialfiera e Termoli	18.37	10.87	13.57	NA	NA	76.0	6.73	4.87	WNW
+4	5	2017	 Campobasso, Guardialfiera e Termoli	20.33	10.73	15.1	NA	NA	75.0	0.93	5.6	ENE
+5	5	2017	 Campobasso, Guardialfiera e Termoli	18.5	11.87	15.13	NA	NA	75.0	0.07	7.43	NE
+6	5	2017	 Campobasso, Guardialfiera e Termoli	19.6	10.63	15.0	NA	NA	75.67	0.53	6.2	W
+7	5	2017	 Campobasso, Guardialfiera e Termoli	20.53	11.13	15.5	NA	NA	72.0	14.2	10.73	SSW
+8	5	2017	 Campobasso, Guardialfiera e Termoli	17.57	10.93	13.87	NA	NA	83.67	10.07	9.57	WSW
+9	5	2017	 Campobasso, Guardialfiera e Termoli	17.3	11.37	13.6	NA	NA	83.67	3.2	9.5	WSW
+10	5	2017	 Campobasso, Guardialfiera e Termoli	19.97	10.1	14.77	NA	NA	79.67	0.13	7.77	ENE
+11	5	2017	 Campobasso, Guardialfiera e Termoli	26.67	12.7	18.73	NA	NA	70.33	0.0	6.1	E
+12	5	2017	 Campobasso, Guardialfiera e Termoli	23.83	16.57	19.77	NA	NA	70.33	0.0	8.33	WSW
+13	5	2017	 Campobasso, Guardialfiera e Termoli	23.83	14.93	19.37	NA	NA	66.33	0.0	8.83	ESE
+14	5	2017	 Campobasso, Guardialfiera e Termoli	24.93	14.23	19.37	NA	NA	65.33	0.0	6.43	SE
+15	5	2017	 Campobasso, Guardialfiera e Termoli	22.63	14.73	17.97	NA	NA	75.0	0.87	8.0	SSE
+16	5	2017	 Campobasso, Guardialfiera e Termoli	20.57	13.9	17.63	NA	NA	73.0	0.0	17.5	N
+17	5	2017	 Campobasso, Guardialfiera e Termoli	21.23	15.2	18.43	NA	NA	65.0	0.0	15.77	N
+18	5	2017	 Campobasso, Guardialfiera e Termoli	23.3	13.8	18.33	NA	NA	61.33	0.0	8.9	NNE
+19	5	2017	 Campobasso, Guardialfiera e Termoli	25.27	14.3	19.9	NA	NA	58.67	0.0	9.6	S
+20	5	2017	 Campobasso, Guardialfiera e Termoli	22.57	12.63	16.83	NA	NA	73.67	5.07	10.03	S
+21	5	2017	 Campobasso, Guardialfiera e Termoli	17.83	11.97	15.2	NA	NA	79.67	1.07	20.53	NNW
+22	5	2017	 Campobasso, Guardialfiera e Termoli	22.93	13.37	18.0	NA	NA	68.33	0.0	8.67	NNW
+23	5	2017	 Campobasso, Guardialfiera e Termoli	24.43	15.0	18.77	NA	NA	72.33	2.2	6.67	WSW
+24	5	2017	 Campobasso, Guardialfiera e Termoli	25.0	14.77	19.73	NA	NA	65.0	0.0	6.33	SW
+25	5	2017	 Campobasso, Guardialfiera e Termoli	18.97	13.13	16.43	NA	NA	79.33	8.53	12.7	NNE
+26	5	2017	 Campobasso, Guardialfiera e Termoli	19.43	12.63	16.57	NA	NA	68.67	0.0	18.63	NNW
+27	5	2017	 Campobasso, Guardialfiera e Termoli	21.13	13.07	17.63	NA	NA	64.0	0.0	16.93	NNW
+28	5	2017	 Campobasso, Guardialfiera e Termoli	21.87	14.47	18.53	NA	NA	63.67	0.0	12.87	NNW
+29	5	2017	 Campobasso, Guardialfiera e Termoli	25.47	14.4	20.07	NA	NA	59.0	0.0	6.77	SE
+30	5	2017	 Campobasso, Guardialfiera e Termoli	27.07	15.07	20.83	NA	NA	60.0	0.0	7.33	SSW
+31	5	2017	 Campobasso, Guardialfiera e Termoli	27.17	17.1	21.57	NA	NA	66.33	0.0	7.0	SW
+1	6	2017	 Campobasso, Guardialfiera e Termoli	27.6	17.3	21.97	NA	NA	71.33	0.0	6.33	SE
+2	6	2017	 Campobasso, Guardialfiera e Termoli	26.87	17.4	22.57	NA	NA	69.0	0.0	6.5	SSE
+3	6	2017	 Campobasso, Guardialfiera e Termoli	27.13	16.23	21.83	NA	NA	60.0	0.0	6.83	ESE
+4	6	2017	 Campobasso, Guardialfiera e Termoli	28.7	17.6	22.87	NA	NA	58.67	0.0	7.53	SSE
+5	6	2017	 Campobasso, Guardialfiera e Termoli	27.6	18.17	22.8	NA	NA	65.67	0.0	7.03	ENE
+6	6	2017	 Campobasso, Guardialfiera e Termoli	27.17	19.23	22.87	NA	NA	62.33	0.0	9.87	SSE
+7	6	2017	 Campobasso, Guardialfiera e Termoli	27.47	17.97	22.37	NA	NA	65.33	0.0	8.57	W
+8	6	2017	 Campobasso, Guardialfiera e Termoli	22.5	17.1	19.93	NA	NA	70.67	0.0	12.03	SW
+9	6	2017	 Campobasso, Guardialfiera e Termoli	25.47	14.9	20.17	NA	NA	61.33	0.0	7.27	ENE
+10	6	2017	 Campobasso, Guardialfiera e Termoli	27.4	16.63	21.67	NA	NA	62.33	0.0	7.33	ENE
+11	6	2017	 Campobasso, Guardialfiera e Termoli	24.37	16.87	21.17	NA	NA	56.33	0.0	13.9	ESE
+12	6	2017	 Campobasso, Guardialfiera e Termoli	27.67	15.77	21.73	NA	NA	52.33	0.0	8.07	SSE
+13	6	2017	 Campobasso, Guardialfiera e Termoli	29.33	18.5	24.17	NA	NA	56.67	0.0	7.63	SSE
+14	6	2017	 Campobasso, Guardialfiera e Termoli	31.63	20.57	25.7	NA	NA	60.33	0.0	7.67	SSE
+15	6	2017	 Campobasso, Guardialfiera e Termoli	28.3	20.83	23.5	NA	NA	75.67	1.53	6.87	ENE
+16	6	2017	 Campobasso, Guardialfiera e Termoli	28.67	18.97	23.87	NA	NA	75.0	3.53	6.7	NE
+17	6	2017	 Campobasso, Guardialfiera e Termoli	26.6	19.37	22.87	NA	NA	75.33	0.0	10.8	NNW
+18	6	2017	 Campobasso, Guardialfiera e Termoli	22.33	17.8	20.2	NA	NA	61.33	0.0	20.03	NNE
+19	6	2017	 Campobasso, Guardialfiera e Termoli	24.93	16.4	21.3	NA	NA	61.0	0.0	14.43	NW
+20	6	2017	 Campobasso, Guardialfiera e Termoli	29.13	16.73	23.0	NA	NA	57.33	0.0	7.33	SW
+21	6	2017	 Campobasso, Guardialfiera e Termoli	29.37	19.6	24.73	NA	NA	57.33	0.0	7.67	SW
+22	6	2017	 Campobasso, Guardialfiera e Termoli	30.6	20.7	25.57	NA	NA	59.0	0.0	8.1	SSW
+23	6	2017	 Campobasso, Guardialfiera e Termoli	33.1	21.37	26.97	NA	NA	56.67	0.0	9.1	SSW
+24	6	2017	 Campobasso, Guardialfiera e Termoli	32.63	21.83	27.27	NA	NA	58.0	0.0	8.07	ESE
+25	6	2017	 Campobasso, Guardialfiera e Termoli	34.5	22.43	27.7	NA	NA	62.33	0.0	11.6	WSW
+26	6	2017	 Campobasso, Guardialfiera e Termoli	29.6	21.4	25.57	NA	NA	69.67	0.0	6.43	ENE
+27	6	2017	 Campobasso, Guardialfiera e Termoli	35.63	21.83	27.6	NA	NA	57.33	0.0	11.13	ESE
+28	6	2017	 Campobasso, Guardialfiera e Termoli	31.87	23.27	26.6	NA	NA	59.0	0.6	12.77	SSW
+29	6	2017	 Campobasso, Guardialfiera e Termoli	31.5	13.17	16.77	NA	NA	32.33	0.0	11.8	SW
+30	6	2017	 Campobasso, Guardialfiera e Termoli	34.27	19.9	25.73	NA	NA	53.0	0.0	10.9	WSW
+1	7	2017	 Campobasso, Guardialfiera e Termoli	25.17	18.43	21.87	NA	NA	68.67	0.0	8.1	NE
+2	7	2017	 Campobasso, Guardialfiera e Termoli	24.13	17.47	20.3	NA	NA	68.33	2.33	8.4	NW
+3	7	2017	 Campobasso, Guardialfiera e Termoli	25.2	17.33	21.7	NA	NA	61.0	0.0	18.07	NNW
+4	7	2017	 Campobasso, Guardialfiera e Termoli	26.4	17.03	22.2	NA	NA	53.67	0.0	10.6	NE
+5	7	2017	 Campobasso, Guardialfiera e Termoli	29.23	18.33	24.07	NA	NA	50.0	0.0	7.87	ENE
+6	7	2017	 Campobasso, Guardialfiera e Termoli	31.67	20.43	25.97	NA	NA	50.67	0.0	7.47	NE
+7	7	2017	 Campobasso, Guardialfiera e Termoli	34.07	21.3	27.6	NA	NA	44.67	0.0	7.17	SW
+8	7	2017	 Campobasso, Guardialfiera e Termoli	32.87	22.3	27.6	NA	NA	48.33	0.0	6.43	SSO
+9	7	2017	 Campobasso, Guardialfiera e Termoli	33.37	22.47	27.9	NA	NA	49.67	0.0	7.27	ENE
+10	7	2017	 Campobasso, Guardialfiera e Termoli	36.2	24.7	29.9	NA	NA	31.0	0.0	13.23	WSW
+11	7	2017	 Campobasso, Guardialfiera e Termoli	33.3	22.7	28.3	NA	NA	34.67	0.0	10.07	SSW
+12	7	2017	 Campobasso, Guardialfiera e Termoli	34.67	22.23	27.87	NA	NA	44.67	0.0	8.23	SW
+13	7	2017	 Campobasso, Guardialfiera e Termoli	31.0	22.8	26.87	NA	NA	58.0	0.0	8.87	WSW
+14	7	2017	 Campobasso, Guardialfiera e Termoli	31.53	20.13	24.53	NA	NA	70.33	3.2	7.93	WSW
+15	7	2017	 Campobasso, Guardialfiera e Termoli	25.8	19.4	22.63	NA	NA	71.67	0.73	11.87	NNE
+1	8	2017	 Campobasso, Guardialfiera e Termoli	32.63	23.1	27.9	NA	NA	60.0	0.0	8.17	NW
+2	8	2017	 Campobasso, Guardialfiera e Termoli	36.33	23.8	30.2	NA	NA	40.67	0.0	7.47	NW
+3	8	2017	 Campobasso, Guardialfiera e Termoli	35.77	25.53	30.63	NA	NA	40.67	0.0	7.53	NNE
+4	8	2017	 Campobasso, Guardialfiera e Termoli	38.27	26.1	32.77	NA	NA	38.67	0.0	6.67	SSW
+5	8	2017	 Campobasso, Guardialfiera e Termoli	37.23	26.23	31.33	NA	NA	42.67	0.0	6.93	SW
+6	8	2017	 Campobasso, Guardialfiera e Termoli	36.23	24.8	30.5	NA	NA	42.0	0.0	8.23	NE
+7	8	2017	 Campobasso, Guardialfiera e Termoli	30.13	24.13	27.4	NA	NA	64.0	0.0	12.47	NW
+8	8	2017	 Campobasso, Guardialfiera e Termoli	33.47	21.93	27.73	NA	NA	61.33	0.0	6.77	NE
+9	8	2017	 Campobasso, Guardialfiera e Termoli	37.77	24.5	30.8	NA	NA	43.0	0.0	8.53	SSW
+10	8	2017	 Campobasso, Guardialfiera e Termoli	38.63	26.17	31.57	NA	NA	36.0	0.0	9.43	SSW
+11	8	2017	 Campobasso, Guardialfiera e Termoli	32.7	23.27	27.57	NA	NA	51.67	0.0	13.57	SSW
+12	8	2017	 Campobasso, Guardialfiera e Termoli	26.73	14.7	20.8	NA	NA	58.33	12.4	14.7	SSW
+13	8	2017	 Campobasso, Guardialfiera e Termoli	24.77	16.9	21.17	NA	NA	64.67	0.27	16.47	NNW
+14	8	2017	 Campobasso, Guardialfiera e Termoli	26.2	18.0	22.37	NA	NA	58.0	0.0	11.33	NNW
+15	8	2017	 Campobasso, Guardialfiera e Termoli	28.53	19.07	23.87	NA	NA	50.67	0.0	11.53	NNW
+16	8	2017	 Campobasso, Guardialfiera e Termoli	30.1	19.83	25.1	NA	NA	52.67	0.0	9.43	NNW
+17	8	2017	 Campobasso, Guardialfiera e Termoli	29.5	20.43	25.33	NA	NA	52.33	0.0	11.37	NNW
+18	8	2017	 Campobasso, Guardialfiera e Termoli	31.6	21.37	26.33	NA	NA	50.33	0.0	7.1	NW
+19	8	2017	 Campobasso, Guardialfiera e Termoli	33.57	22.7	27.93	NA	NA	48.33	0.0	8.93	NE
+20	8	2017	 Campobasso, Guardialfiera e Termoli	30.1	21.73	25.27	NA	NA	60.67	2.07	15.13	N
+21	8	2017	 Campobasso, Guardialfiera e Termoli	24.37	19.03	21.87	NA	NA	59.67	0.0	20.3	N
+22	8	2017	 Campobasso, Guardialfiera e Termoli	23.27	17.4	20.9	NA	NA	53.33	0.0	13.83	N
+23	8	2017	 Campobasso, Guardialfiera e Termoli	27.37	15.7	21.37	NA	NA	54.0	0.0	7.37	NE
+24	8	2017	 Campobasso, Guardialfiera e Termoli	31.03	18.3	24.53	NA	NA	49.0	0.0	7.27	NE
+25	8	2017	 Campobasso, Guardialfiera e Termoli	31.33	20.63	25.57	NA	NA	50.33	1.07	7.0	NE
+26	8	2017	 Campobasso, Guardialfiera e Termoli	31.53	20.87	25.37	NA	NA	49.33	0.0	6.47	NW
+27	8	2017	 Campobasso, Guardialfiera e Termoli	32.23	21.47	26.6	NA	NA	47.67	0.0	6.93	NW
+28	8	2017	 Campobasso, Guardialfiera e Termoli	32.43	21.83	26.67	NA	NA	54.0	0.0	9.5	NW
+29	8	2017	 Campobasso, Guardialfiera e Termoli	26.87	20.17	23.77	NA	NA	62.67	0.0	13.57	NE
+30	8	2017	 Campobasso, Guardialfiera e Termoli	28.5	18.03	23.0	NA	NA	57.33	0.0	7.17	E
+31	8	2017	 Campobasso, Guardialfiera e Termoli	31.67	19.67	25.5	NA	NA	51.67	0.0	8.03	ENE
+1	9	2017	 Campobasso, Guardialfiera e Termoli	29.8	22.27	25.03	NA	NA	63.67	3.73	10.1	WSW
+2	9	2017	 Campobasso, Guardialfiera e Termoli	26.83	18.57	22.93	NA	NA	66.33	10.67	12.07	S
+3	9	2017	 Campobasso, Guardialfiera e Termoli	22.6	14.03	18.27	NA	NA	61.0	0.33	14.83	WSW
+4	9	2017	 Campobasso, Guardialfiera e Termoli	24.17	13.43	18.43	NA	NA	64.33	0.0	6.9	ENE
+5	9	2017	 Campobasso, Guardialfiera e Termoli	25.37	15.73	20.4	NA	NA	60.33	0.0	6.53	NNW
+6	9	2017	 Campobasso, Guardialfiera e Termoli	27.77	16.6	22.13	NA	NA	58.0	0.0	8.37	SW
+7	9	2017	 Campobasso, Guardialfiera e Termoli	27.6	18.47	22.63	NA	NA	63.33	0.0	12.6	WSW
+8	9	2017	 Campobasso, Guardialfiera e Termoli	24.97	18.03	21.07	NA	NA	72.67	1.33	7.5	NNW
+9	9	2017	 Campobasso, Guardialfiera e Termoli	28.23	17.33	21.8	NA	NA	59.33	0.0	12.17	SSE
+10	9	2017	 Campobasso, Guardialfiera e Termoli	30.27	17.17	20.97	NA	NA	69.33	24.2	12.67	WSW
+11	9	2017	 Campobasso, Guardialfiera e Termoli	22.33	17.53	19.37	NA	NA	79.33	15.93	10.2	S
+12	9	2017	 Campobasso, Guardialfiera e Termoli	26.9	17.47	21.87	NA	NA	58.0	0.0	16.73	WSW
+13	9	2017	 Campobasso, Guardialfiera e Termoli	24.63	16.2	20.23	NA	NA	60.33	0.0	7.73	ESE
+14	9	2017	 Campobasso, Guardialfiera e Termoli	26.5	15.1	20.83	NA	NA	66.0	0.0	10.87	SSE
+15	9	2017	 Campobasso, Guardialfiera e Termoli	27.03	16.7	21.73	NA	NA	67.33	0.0	8.47	SSE
+16	9	2017	 Campobasso, Guardialfiera e Termoli	31.1	19.73	25.03	NA	NA	48.33	0.0	11.83	SSE
+17	9	2017	 Campobasso, Guardialfiera e Termoli	25.6	15.67	21.43	NA	NA	63.33	0.4	11.23	SSE
+18	9	2017	 Campobasso, Guardialfiera e Termoli	23.87	13.5	18.3	NA	NA	64.0	0.0	7.53	SSE
+19	9	2017	 Campobasso, Guardialfiera e Termoli	23.1	14.57	18.07	NA	NA	66.33	0.8	13.2	SSE
+20	9	2017	 Campobasso, Guardialfiera e Termoli	16.7	11.93	13.93	NA	NA	76.0	6.47	11.63	NW
+21	9	2017	 Campobasso, Guardialfiera e Termoli	20.27	11.6	15.7	NA	NA	61.33	1.4	8.8	SSE
+22	9	2017	 Campobasso, Guardialfiera e Termoli	23.1	11.77	16.93	NA	NA	56.33	0.0	6.17	SSE
+23	9	2017	 Campobasso, Guardialfiera e Termoli	24.63	12.67	17.97	NA	NA	58.33	0.0	6.53	E
+24	9	2017	 Campobasso, Guardialfiera e Termoli	22.83	12.7	17.6	NA	NA	64.33	7.2	6.37	E
+25	9	2017	 Campobasso, Guardialfiera e Termoli	19.7	13.83	16.2	NA	NA	83.0	3.07	6.93	NNE
+26	9	2017	 Campobasso, Guardialfiera e Termoli	20.9	12.4	16.03	NA	NA	79.33	0.13	8.07	NNW
+27	9	2017	 Campobasso, Guardialfiera e Termoli	20.03	12.97	16.43	NA	NA	81.0	0.0	11.43	NNW
+28	9	2017	 Campobasso, Guardialfiera e Termoli	20.73	13.6	16.93	NA	NA	79.33	0.0	13.0	NW
+29	9	2017	 Campobasso, Guardialfiera e Termoli	18.93	13.53	16.13	NA	NA	77.33	0.0	12.4	NNW
+30	9	2017	 Campobasso, Guardialfiera e Termoli	19.7	12.13	15.37	NA	NA	72.33	0.0	8.8	WNW
+1	10	2017	 Campobasso, Guardialfiera e Termoli	21.4	11.3	15.87	NA	NA	73.0	0.0	5.53	NE
+2	10	2017	 Campobasso, Guardialfiera e Termoli	20.1	14.23	16.5	NA	NA	78.0	0.0	4.87	NE
+3	10	2017	 Campobasso, Guardialfiera e Termoli	24.97	12.43	18.07	NA	NA	72.67	0.07	5.8	SW
+4	10	2017	 Campobasso, Guardialfiera e Termoli	22.77	15.8	18.57	NA	NA	80.67	0.0	6.97	NNE
+5	10	2017	 Campobasso, Guardialfiera e Termoli	24.73	14.8	19.27	NA	NA	75.33	0.07	7.5	SSE
+6	10	2017	 Campobasso, Guardialfiera e Termoli	22.5	11.1	18.07	NA	NA	71.0	24.07	14.77	WSW
+7	10	2017	 Campobasso, Guardialfiera e Termoli	15.9	10.17	13.53	NA	NA	65.33	1.47	22.97	NE
+8	10	2017	 Campobasso, Guardialfiera e Termoli	21.2	8.53	14.4	NA	NA	53.33	0.0	8.37	SW
+9	10	2017	 Campobasso, Guardialfiera e Termoli	20.17	10.63	15.1	NA	NA	67.67	0.0	5.83	NE
+10	10	2017	 Campobasso, Guardialfiera e Termoli	20.53	12.17	15.87	NA	NA	75.33	0.13	4.27	NE
+11	10	2017	 Campobasso, Guardialfiera e Termoli	20.6	12.47	15.9	NA	NA	79.33	0.07	5.4	SE
+12	10	2017	 Campobasso, Guardialfiera e Termoli	22.43	11.93	16.37	NA	NA	72.0	0.0	6.03	NW
+13	10	2017	 Campobasso, Guardialfiera e Termoli	21.57	11.87	15.97	NA	NA	74.0	0.0	6.37	ENE
+14	10	2017	 Campobasso, Guardialfiera e Termoli	21.7	11.97	16.3	NA	NA	74.0	0.0	8.07	WNW
+15	10	2017	 Campobasso, Guardialfiera e Termoli	22.13	12.77	17.83	NA	NA	67.0	0.0	7.27	NW
+16	10	2017	 Campobasso, Guardialfiera e Termoli	23.73	12.3	17.33	NA	NA	63.67	0.0	6.3	SSW
+17	10	2017	 Campobasso, Guardialfiera e Termoli	22.8	12.3	16.9	NA	NA	68.33	0.0	6.37	SSW
+18	10	2017	 Campobasso, Guardialfiera e Termoli	22.67	12.1	16.97	NA	NA	72.67	0.0	5.37	SSE
+19	10	2017	 Campobasso, Guardialfiera e Termoli	20.93	12.13	15.97	NA	NA	79.0	0.0	5.27	SW
+20	10	2017	 Campobasso, Guardialfiera e Termoli	19.43	12.4	15.13	NA	NA	85.67	0.0	3.57	ESE
+21	10	2017	 Campobasso, Guardialfiera e Termoli	22.13	11.3	16.27	NA	NA	78.67	0.07	5.1	SSW
+22	10	2017	 Campobasso, Guardialfiera e Termoli	23.27	13.0	17.27	NA	NA	71.0	1.0	9.47	NNW
+23	10	2017	 Campobasso, Guardialfiera e Termoli	16.27	8.87	12.5	NA	NA	74.0	11.23	17.4	NNW
+24	10	2017	 Campobasso, Guardialfiera e Termoli	16.13	10.23	14.37	NA	NA	63.0	4.5	27.53	NNW
+25	10	2017	 Campobasso, Guardialfiera e Termoli	16.47	11.87	14.63	NA	NA	69.0	0.0	16.9	NNW
+26	10	2017	 Campobasso, Guardialfiera e Termoli	20.87	9.67	14.43	NA	NA	67.67	0.0	5.2	WNW
+27	10	2017	 Campobasso, Guardialfiera e Termoli	21.4	11.23	15.33	NA	NA	66.67	1.33	9.43	SSW
+28	10	2017	 Campobasso, Guardialfiera e Termoli	15.53	8.93	13.1	NA	NA	64.33	0.23	14.9	NE
+29	10	2017	 Campobasso, Guardialfiera e Termoli	19.4	7.2	13.33	NA	NA	61.33	0.0	11.43	SSW
+30	10	2017	 Campobasso, Guardialfiera e Termoli	13.23	12.93	13.1	NA	NA	65.67	0.0	1.4	NE
+1	11	2017	 Campobasso, Guardialfiera e Termoli	13.93	7.13	10.13	NA	NA	72.33	0.0	5.07	WSW
+2	11	2017	 Campobasso, Guardialfiera e Termoli	18.27	6.8	12.4	NA	NA	66.0	0.0	7.87	SW
+3	11	2017	 Campobasso, Guardialfiera e Termoli	17.07	9.57	12.97	NA	NA	72.33	0.0	5.43	SSW
+4	11	2017	 Campobasso, Guardialfiera e Termoli	17.6	8.97	12.87	NA	NA	76.0	0.0	5.93	SSE
+5	11	2017	 Campobasso, Guardialfiera e Termoli	20.57	9.7	14.53	NA	NA	68.67	22.93	7.7	SSE
+6	11	2017	 Campobasso, Guardialfiera e Termoli	17.27	9.33	13.13	NA	NA	85.0	16.87	8.0	SSE
+7	11	2017	 Campobasso, Guardialfiera e Termoli	14.13	7.9	10.33	NA	NA	79.0	3.73	6.03	SE
+8	11	2017	 Campobasso, Guardialfiera e Termoli	15.03	7.47	10.5	NA	NA	79.0	0.0	4.43	SW
+9	11	2017	 Campobasso, Guardialfiera e Termoli	15.87	7.5	11.17	NA	NA	77.33	0.0	4.4	SSE
+10	11	2017	 Campobasso, Guardialfiera e Termoli	13.6	8.93	11.03	NA	NA	88.0	0.07	3.7	WNW
+11	11	2017	 Campobasso, Guardialfiera e Termoli	15.2	8.17	10.93	NA	NA	87.33	0.07	4.5	WNW
+12	11	2017	 Campobasso, Guardialfiera e Termoli	18.93	8.63	12.97	NA	NA	69.0	0.07	9.57	SSW
+13	11	2017	 Campobasso, Guardialfiera e Termoli	16.17	6.93	11.9	NA	NA	68.33	1.67	9.9	WW
+14	11	2017	 Campobasso, Guardialfiera e Termoli	11.37	6.27	8.9	NA	NA	89.33	27.53	14.73	NE
+15	11	2017	 Campobasso, Guardialfiera e Termoli	13.33	9.57	11.1	NA	NA	93.33	10.2	6.27	NE
+16	11	2017	 Campobasso, Guardialfiera e Termoli	11.0	8.47	9.83	NA	NA	92.67	19.87	22.2	NNW
+17	11	2017	 Campobasso, Guardialfiera e Termoli	11.5	9.43	10.47	NA	NA	89.67	2.67	17.47	NW
+18	11	2017	 Campobasso, Guardialfiera e Termoli	12.03	7.97	9.97	NA	NA	81.67	0.0	11.0	NW
+19	11	2017	 Campobasso, Guardialfiera e Termoli	13.1	6.6	9.47	NA	NA	75.67	0.0	5.2	WSW
+20	11	2017	 Campobasso, Guardialfiera e Termoli	12.6	5.27	8.67	NA	NA	65.0	0.53	9.6	NW
+21	11	2017	 Campobasso, Guardialfiera e Termoli	13.7	4.93	8.67	NA	NA	71.67	0.0	5.77	SW
+22	11	2017	 Campobasso, Guardialfiera e Termoli	15.33	6.47	10.13	NA	NA	79.67	0.0	5.1	SW
+23	11	2017	 Campobasso, Guardialfiera e Termoli	15.83	6.97	10.33	NA	NA	80.0	0.0	4.9	SW
+24	11	2017	 Campobasso, Guardialfiera e Termoli	16.83	6.97	10.63	NA	NA	77.0	0.0	4.83	SSW
+25	11	2017	 Campobasso, Guardialfiera e Termoli	17.2	8.2	13.03	NA	NA	72.67	0.0	12.1	SSW
+26	11	2017	 Campobasso, Guardialfiera e Termoli	16.17	7.1	12.67	NA	NA	70.67	4.87	17.43	WSW
+27	11	2017	 Campobasso, Guardialfiera e Termoli	7.97	4.87	6.57	NA	NA	71.0	1.53	21.17	NW
+28	11	2017	 Campobasso, Guardialfiera e Termoli	10.3	2.37	6.03	NA	NA	63.0	0.0	6.9	SW
+29	11	2017	 Campobasso, Guardialfiera e Termoli	13.1	4.33	9.97	NA	NA	74.33	1.27	12.2	SSE
+30	11	2017	 Campobasso, Guardialfiera e Termoli	14.63	7.5	10.5	NA	NA	75.0	2.73	10.87	SSW
+1	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	10.83	4.8	6.95	NA	NA	74.25	0.05	4.1	SSW
+2	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	9.1	3.73	6.45	NA	NA	83.0	0.9	4.98	W
+3	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	8.3	5.1	6.3	NA	NA	86.25	5.28	6.28	WSW
+4	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	7.23	3.3	5.25	NA	NA	82.0	0.48	6.73	W
+5	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	10.33	2.28	5.63	NA	NA	62.5	0.0	5.63	W
+6	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	13.55	3.48	7.15	NA	NA	58.0	0.0	4.13	SW
+7	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	12.3	3.25	6.88	NA	NA	72.0	0.0	4.15	SW
+8	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	14.0	4.98	10.05	NA	NA	65.25	0.0	11.45	SSW
+9	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	12.33	1.63	7.43	NA	NA	73.25	7.6	12.98	WSW
+10	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	10.23	-0.53	5.08	NA	NA	65.5	0.13	10.83	SSW
+11	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	15.33	9.7	12.85	NA	NA	67.5	2.45	19.28	S
+12	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	16.7	14.0	15.1	NA	NA	61.0	0.0	15.13	SE
+13	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	14.68	7.95	10.85	NA	NA	79.75	2.83	6.43	WSW
+14	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	13.63	7.98	11.2	NA	NA	66.25	0.05	13.4	SSE
+15	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	16.48	10.53	13.93	NA	NA	71.25	10.6	11.88	S
+16	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	12.03	4.88	9.33	NA	NA	66.5	0.0	9.25	SW
+17	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	6.95	2.38	4.55	NA	NA	80.0	2.48	11.75	W
+18	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	3.93	1.08	2.13	NA	NA	85.25	7.13	9.2	NW
+19	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	4.23	0.5	2.2	NA	NA	83.5	2.13	5.95	W
+20	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	4.6	1.03	2.48	NA	NA	79.25	4.08	6.6	NW
+21	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	5.6	2.58	4.48	NA	NA	70.0	0.05	13.75	NW
+22	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	8.23	4.78	6.55	NA	NA	77.0	0.0	19.45	NW
+23	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	10.25	4.5	7.63	NA	NA	71.5	0.05	13.23	NW
+24	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	15.28	4.38	8.75	NA	NA	54.25	0.0	4.08	WSW
+25	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	13.15	3.55	7.6	NA	NA	70.25	0.0	3.23	ESE
+26	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	11.95	3.6	7.73	NA	NA	76.25	0.05	5.4	S
+27	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	12.7	6.93	9.88	NA	NA	73.5	6.1	14.48	SSE
+28	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	9.78	4.03	6.4	NA	NA	71.5	1.63	15.05	SSW
+29	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	7.0	2.5	4.48	NA	NA	77.5	0.38	8.28	WNW
+30	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	9.53	0.85	4.83	NA	NA	69.25	0.0	3.53	SW
+31	12	2017	 Campobasso, Guardialfiera, Larino e Termoli	11.93	3.6	7.23	NA	NA	77.25	0.0	3.83	SW
+1	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.65	6.05	10.1	NA	NA	73.0	0.2	10.93	SW
+2	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.13	4.83	7.88	NA	NA	74.25	1.95	11.63	WSW
+3	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.1	3.13	9.0	NA	NA	57.75	0.55	12.88	SW
+4	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.15	6.45	10.73	NA	NA	62.5	0.18	7.1	SW
+5	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.38	7.8	11.2	NA	NA	73.0	0.0	7.88	SW
+6	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.6	7.2	9.95	NA	NA	78.25	0.0	4.35	SE
+7	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.45	6.55	10.13	NA	NA	76.25	0.0	3.5	SSE
+8	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.28	8.58	11.75	NA	NA	72.25	0.0	5.33	SSE
+9	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.03	9.33	12.28	NA	NA	79.5	0.0	5.78	SSE
+10	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.55	4.75	8.2	NA	NA	85.25	4.88	4.05	WNW
+11	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.35	3.65	7.03	NA	NA	79.0	0.2	2.58	ESE
+12	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.9	6.25	7.65	NA	NA	89.25	10.43	7.75	ENE
+13	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.6	5.55	7.18	NA	NA	80.25	0.5	9.2	NW
+14	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.25	4.5	6.73	NA	NA	81.0	0.0	2.55	ESE
+15	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.33	3.7	6.08	NA	NA	85.0	0.4	2.7	E
+16	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.2	5.7	10.3	NA	NA	69.25	0.1	16.35	SW
+17	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.83	6.55	11.4	NA	NA	56.75	0.7	19.45	W
+18	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.75	3.3	8.25	NA	NA	37.25	0.05	12.58	SW
+19	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.63	9.3	11.68	NA	NA	63.5	0.05	18.98	SW
+20	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.8	5.75	8.7	NA	NA	80.25	3.38	4.88	W
+21	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.35	5.2	8.63	NA	NA	73.75	1.6	12.93	WNW
+22	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.4	4.3	6.5	NA	NA	69.25	0.1	4.18	ESE
+23	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.35	4.65	6.68	NA	NA	79.75	0.8	4.73	SSE
+24	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.65	3.65	6.75	NA	NA	74.25	0.0	5.28	W
+25	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.78	2.45	6.65	NA	NA	68.5	0.0	3.65	SE
+26	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.55	2.65	6.63	NA	NA	77.25	0.05	4.25	WSW
+27	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.85	3.38	6.75	NA	NA	78.75	0.0	3.53	SE
+28	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.55	3.6	7.28	NA	NA	85.25	0.05	3.6	SSE
+29	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.25	3.75	7.5	NA	NA	80.75	0.05	3.43	SE
+30	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.33	3.48	6.83	NA	NA	84.5	0.0	2.65	ENE
+31	1	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.6	2.6	6.53	NA	NA	80.75	0.05	5.2	WSW
+1	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.68	4.4	10.45	NA	NA	66.5	0.75	11.68	EW
+2	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.3	9.08	12.53	NA	NA	69.0	5.48	13.5	S
+3	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.0	6.0	9.45	NA	NA	69.25	10.3	17.38	SW
+4	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.93	3.1	5.8	NA	NA	72.0	0.0	5.5	S
+5	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.4	1.48	5.45	NA	NA	78.5	0.0	3.35	SSE
+6	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.15	3.58	5.95	NA	NA	89.75	14.63	2.1	SSE
+7	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.23	4.58	6.6	NA	NA	86.5	17.83	6.18	SSE
+8	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.13	3.53	7.0	NA	NA	78.0	0.0	4.75	SW
+9	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.33	2.5	5.88	NA	NA	81.75	0.0	3.45	SE
+10	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.15	3.55	5.83	NA	NA	83.0	0.28	14.2	SW
+11	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	7.23	1.48	4.73	NA	NA	72.5	2.05	10.95	SW
+12	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.05	0.13	6.2	NA	NA	72.25	0.0	6.25	SW
+13	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	7.43	2.95	5.18	NA	NA	78.25	0.0	8.18	SW
+14	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	5.7	0.15	2.95	NA	NA	74.0	1.68	6.53	SSE
+15	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	5.75	0.88	3.28	NA	NA	71.0	0.78	13.55	SW
+16	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.68	0.93	5.4	NA	NA	58.25	0.0	4.68	WSW
+17	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.75	3.25	7.03	NA	NA	73.0	0.0	3.65	ENE
+18	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.78	6.55	8.6	NA	NA	78.75	1.05	6.93	WSW
+19	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	7.25	4.68	6.15	NA	NA	90.5	5.2	7.38	WNW
+20	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	5.45	3.38	4.43	NA	NA	93.0	13.2	4.1	SW
+21	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	4.05	2.43	3.4	NA	NA	92.75	10.5	11.85	NW
+22	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	7.35	1.93	4.9	NA	NA	89.75	0.9	4.15	SSE
+23	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	9.53	5.18	6.7	NA	NA	94.75	13.3	3.78	SSE
+24	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.73	6.7	9.28	NA	NA	89.5	5.25	6.08	ENE
+25	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	6.88	0.78	3.38	NA	NA	90.5	7.65	14.33	SW
+26	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	0.85	-3.7	-1.45	NA	NA	88.0	0.5	13.43	WNW
+27	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	0.6	-4.65	-2.58	NA	NA	76.75	0.4	9.05	NW
+28	2	2018	 Campobasso, Guardialfiera, Larino e Termoli	1.15	-5.35	-2.53	NA	NA	73.75	0.15	8.05	WNW
+1	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	7.25	-2.05	2.45	NA	NA	87.5	0.25	4.35	SSE
+2	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.53	3.65	8.4	NA	NA	74.75	0.23	10.98	WSW
+3	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.28	6.55	9.65	NA	NA	70.75	10.25	10.38	SW
+4	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	11.55	6.23	8.53	NA	NA	85.5	3.8	4.13	S
+5	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.55	6.2	7.55	NA	NA	94.0	17.45	3.25	SE
+6	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.28	6.43	9.23	NA	NA	81.75	5.5	7.9	SW
+7	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.1	6.2	10.8	NA	NA	67.0	1.03	12.63	SSW
+8	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.58	4.6	9.38	NA	NA	65.75	0.0	7.25	S
+9	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.15	6.45	10.1	NA	NA	66.75	0.0	5.63	ESE
+10	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	17.18	5.98	11.4	NA	NA	72.5	0.0	6.8	S
+11	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	22.15	8.3	14.4	NA	NA	69.75	0.8	9.83	S
+12	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.68	9.65	12.4	NA	NA	65.0	0.45	13.18	SW
+13	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.5	8.55	11.98	NA	NA	61.0	2.45	14.05	SW
+14	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.28	5.5	10.13	NA	NA	62.5	0.0	5.48	SSW
+15	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.85	6.88	11.45	NA	NA	63.25	0.0	8.45	SSW
+16	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	17.8	10.58	14.08	NA	NA	69.75	0.0	9.85	SSW
+17	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.65	8.8	10.8	NA	NA	82.5	1.55	6.05	SW
+18	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.55	7.0	10.0	NA	NA	67.0	5.2	11.1	SSW
+19	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	13.65	6.95	9.3	NA	NA	64.25	0.25	12.9	WSW
+20	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.53	4.4	7.13	NA	NA	84.5	13.05	5.68	ENE
+21	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	6.28	2.5	4.3	NA	NA	85.5	6.95	17.98	WNW
+22	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	5.38	3.35	4.25	NA	NA	73.0	0.0	25.73	NW
+23	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	4.68	1.68	3.2	NA	NA	76.25	0.85	17.78	NW
+24	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.58	3.85	6.1	NA	NA	66.25	0.0	8.68	NW
+25	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	8.33	2.58	6.0	NA	NA	78.75	3.05	6.68	W
+26	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	10.23	5.4	7.6	NA	NA	84.5	1.25	9.3	NW
+27	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	12.38	4.4	8.23	NA	NA	68.25	0.0	5.0	SSE
+28	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.3	5.98	11.03	NA	NA	59.5	0.0	7.48	SSW
+29	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	19.43	9.3	13.98	NA	NA	61.75	0.0	14.8	S
+30	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	22.85	11.63	16.2	NA	NA	57.25	0.05	12.9	SSW
+31	3	2018	 Campobasso, Guardialfiera, Larino e Termoli	19.65	7.88	13.9	NA	NA	62.25	2.5	12.55	S
+1	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	14.93	6.35	9.95	NA	NA	67.0	0.0	10.6	S
+2	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.93	6.43	12.38	NA	NA	56.25	0.0	6.68	SW
+3	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.73	7.25	13.15	NA	NA	47.5	0.0	5.33	SE
+4	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.18	10.53	14.03	NA	NA	59.75	0.0	4.55	S
+5	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.08	9.15	12.95	NA	NA	72.25	4.2	4.8	SE
+6	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	15.1	8.15	11.58	NA	NA	75.0	0.0	9.45	SSE
+7	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	17.08	6.98	11.8	NA	NA	63.5	7.7	5.5	ESE
+8	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	20.18	7.98	13.85	NA	NA	65.25	0.0	5.03	ESE
+9	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.18	9.73	13.55	NA	NA	66.75	2.38	11.43	SSE
+10	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	19.33	11.0	14.7	NA	NA	59.25	0.7	9.5	SW
+11	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.25	11.5	14.75	NA	NA	70.0	0.0	5.23	E
+12	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	23.33	12.4	16.48	NA	NA	68.25	0.15	6.63	S
+13	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	20.35	9.43	14.53	NA	NA	60.5	0.0	7.2	SSW
+14	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	17.65	9.48	13.2	NA	NA	65.0	0.0	5.5	WSW
+15	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.73	10.4	13.5	NA	NA	63.5	0.0	3.93	WNW
+16	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	19.43	10.18	14.35	NA	NA	71.0	0.55	4.08	ESE
+17	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	16.18	11.9	13.98	NA	NA	84.25	0.0	6.25	S
+18	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	18.1	13.48	15.58	NA	NA	74.5	0.35	11.85	S
+19	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	20.65	13.18	16.48	NA	NA	68.25	0.0	9.18	S
+20	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	21.45	12.5	17.33	NA	NA	59.0	0.0	10.08	S
+21	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	22.1	11.38	17.23	NA	NA	58.75	0.0	6.78	SSW
+22	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	22.3	10.53	16.28	NA	NA	70.5	0.0	4.5	WSW
+23	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	22.58	12.83	17.38	NA	NA	72.75	0.0	3.93	SSW
+24	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	24.9	14.25	18.6	NA	NA	69.0	0.0	5.2	WSW
+25	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	24.33	13.85	18.6	NA	NA	68.25	0.0	4.8	SSE
+26	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	24.9	12.88	18.43	NA	NA	68.25	0.0	4.85	E
+27	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	23.83	12.53	18.25	NA	NA	73.0	0.0	6.1	ESE
+28	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	24.9	13.18	18.13	NA	NA	73.75	0.9	6.3	S
+29	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	26.68	14.25	19.48	NA	NA	65.5	2.33	7.23	S
+30	4	2018	 Campobasso, Guardialfiera, Larino e Termoli	26.05	13.2	19.1	NA	NA	63.5	0.13	7.3	SW
+1	5	2018	 Campobasso e Pescolanciano	18.75	6.0	11.5	NA	NA	68.0	0.0	1.7	E
+2	5	2018	 Campobasso e Pescolanciano	18.4	8.15	13.1	NA	NA	86.0	0.9	4.55	NNE
+3	5	2018	 Campobasso e Pescolanciano	15.1	10.2	11.9	NA	NA	90.5	39.9	7.7	E
+4	5	2018	 Campobasso e Pescolanciano	17.35	9.1	12.7	NA	NA	86.0	0.9	2.95	E
+5	5	2018	 Campobasso e Pescolanciano	18.45	7.95	11.6	NA	NA	86.5	13.4	2.65	ENE
+6	5	2018	 Campobasso e Pescolanciano	18.9	6.5	12.0	NA	NA	85.0	12.3	3.4	ESE
+7	5	2018	 Campobasso e Pescolanciano	20.6	9.85	15.5	NA	NA	82.0	0.6	3.8	ENE
+8	5	2018	 Campobasso e Pescolanciano	20.35	10.0	13.6	NA	NA	84.0	18.7	3.5	ENE
+9	5	2018	 Campobasso e Pescolanciano	17.45	10.45	13.2	NA	NA	88.0	12.0	1.15	E
+10	5	2018	 Campobasso e Pescolanciano	21.35	9.4	14.85	NA	NA	83.0	0.1	1.85	NE
+11	5	2018	 Campobasso e Pescolanciano	20.45	9.55	14.7	NA	NA	85.0	1.3	1.9	NNE
+12	5	2018	 Campobasso e Pescolanciano	20.25	10.05	14.5	NA	NA	86.0	7.2	1.85	ENE
+13	5	2018	 Campobasso e Pescolanciano	20.75	9.25	14.75	NA	NA	75.5	0.2	4.5	ENE
+14	5	2018	 Campobasso e Pescolanciano	18.45	8.0	13.05	NA	NA	72.0	0.2	6.55	ENE
+15	5	2018	 Campobasso e Pescolanciano	14.2	3.95	8.4	NA	NA	78.0	1.1	5.55	ENE
+16	5	2018	 Campobasso e Pescolanciano	16.65	4.1	10.15	NA	NA	78.5	0.1	4.05	S
+17	5	2018	 Campobasso e Pescolanciano	19.8	6.2	12.85	NA	NA	77.0	0.2	3.2	ESE
+18	5	2018	 Campobasso e Pescolanciano	20.0	7.7	12.95	NA	NA	82.0	0.0	4.05	ENE
+19	5	2018	 Campobasso e Pescolanciano	20.55	8.15	13.75	NA	NA	79.0	0.0	3.85	NE
+20	5	2018	 Campobasso e Pescolanciano	21.65	6.45	14.2	NA	NA	73.0	0.0	4.7	ENE
+21	5	2018	 Campobasso e Pescolanciano	22.9	8.0	14.65	NA	NA	78.0	3.1	2.35	ESE
+22	5	2018	 Campobasso e Pescolanciano	23.5	9.65	15.8	NA	NA	79.0	2.7	2.4	ESE
+23	5	2018	 Campobasso e Pescolanciano	16.2	11.8	14.1	NA	NA	90.0	13.7	3.15	ESE
+24	5	2018	 Campobasso e Pescolanciano	22.8	9.3	16.0	NA	NA	82.5	0.0	3.35	S
+25	5	2018	 Campobasso e Pescolanciano	23.6	12.5	16.8	NA	NA	82.0	11.1	3.15	SSW
+26	5	2018	 Campobasso e Pescolanciano	25.25	10.95	17.75	NA	NA	77.5	0.1	3.2	NE
+27	5	2018	 Campobasso e Pescolanciano	26.7	12.25	18.75	NA	NA	74.0	0.0	1.6	ESE
+28	5	2018	 Campobasso e Pescolanciano	26.4	12.8	18.8	NA	NA	77.0	5.7	1.75	NE
+29	5	2018	 Campobasso e Pescolanciano	26.55	14.5	19.9	NA	NA	79.5	0.9	1.9	ESE
+30	5	2018	 Campobasso e Pescolanciano	26.1	14.3	19.6	NA	NA	76.0	2.7	2.75	ESE
+31	5	2018	 Campobasso e Pescolanciano	27.9	12.7	19.3	NA	NA	74.0	8.3	1.9	S
+1	6	2018	 Campobasso e Pescolanciano	26.8	12.6	19.35	NA	NA	70.5	0.0	2.9	SSE
+2	6	2018	 Campobasso e Pescolanciano	27.85	11.35	19.3	NA	NA	70.5	0.0	2.1	SSE
+3	6	2018	 Campobasso e Pescolanciano	28.2	12.4	20.0	NA	NA	68.0	0.0	2.1	SSE
+4	6	2018	 Campobasso e Pescolanciano	27.2	9.7	17.5	NA	NA	72.0	0.0	0.7	SSE
+5	6	2018	 Campobasso e Pescolanciano	24.45	13.8	18.25	NA	NA	76.0	9.0	4.35	SSW
+6	6	2018	 Campobasso e Pescolanciano	26.15	12.35	18.55	NA	NA	76.5	0.0	2.2	S
+7	6	2018	 Campobasso e Pescolanciano	26.75	13.25	19.55	NA	NA	78.5	5.7	2.9	ESE
+8	6	2018	 Campobasso e Pescolanciano	25.85	12.6	18.5	NA	NA	77.5	0.3	2.9	ESE
+9	6	2018	 Campobasso e Pescolanciano	23.3	12.75	17.75	NA	NA	76.5	0.0	5.5	SSE
+10	6	2018	 Campobasso e Pescolanciano	28.2	13.65	20.4	NA	NA	71.5	0.0	2.35	ESE
+11	6	2018	 Campobasso e Pescolanciano	29.5	13.65	21.5	NA	NA	69.5	0.0	2.7	ESE
+12	6	2018	 Campobasso e Pescolanciano	27.05	14.9	21.15	NA	NA	67.0	0.0	4.1	SSE
+13	6	2018	 Campobasso e Pescolanciano	23.8	12.7	18.05	NA	NA	72.0	0.0	7.0	SSE
+14	6	2018	 Campobasso e Pescolanciano	20.7	10.25	15.6	NA	NA	82.5	15.3	5.75	NW
+15	6	2018	 Campobasso e Pescolanciano	20.8	10.8	15.6	NA	NA	81.5	0.0	9.95	NW
+16	6	2018	 Campobasso e Pescolanciano	21.55	10.1	15.7	NA	NA	79.0	0.0	7.4	NW
+17	6	2018	 Campobasso e Pescolanciano	22.55	10.8	16.95	NA	NA	77.5	8.8	5.0	SSE
+18	6	2018	 Campobasso e Pescolanciano	22.85	11.25	17.5	NA	NA	75.5	0.3	8.3	NW
+19	6	2018	 Campobasso e Pescolanciano	22.95	13.75	18.5	NA	NA	74.0	0.0	9.25	NW
+20	6	2018	 Campobasso e Pescolanciano	24.5	12.5	18.4	NA	NA	74.5	0.5	5.7	ENE
+21	6	2018	 Campobasso e Pescolanciano	28.25	12.25	19.65	NA	NA	72.5	9.8	2.25	SSE
+22	6	2018	 Campobasso e Pescolanciano	26.0	14.3	19.5	NA	NA	79.0	5.4	5.95	SSE
+23	6	2018	 Campobasso e Pescolanciano	18.2	9.25	14.75	NA	NA	76.5	1.3	7.65	SSW
+24	6	2018	 Campobasso e Pescolanciano	20.65	6.8	13.85	NA	NA	68.0	0.0	7.05	NW
+25	6	2018	 Campobasso e Pescolanciano	20.4	8.9	8.1	NA	NA	67.5	0.2	6.0	NW
+26	6	2018	 Campobasso e Pescolanciano	20.35	13.25	16.35	NA	NA	65.5	0.0	6.6	NW
+27	6	2018	 Campobasso e Pescolanciano	20.0	12.35	15.75	NA	NA	67.0	1.1	6.3	NW
+28	6	2018	 Campobasso e Pescolanciano	21.3	9.3	16.05	NA	NA	69.0	1.05	3.0	SW
+29	6	2018	 Campobasso e Pescolanciano	25.4	11.25	17.6	NA	NA	73.5	0.6	0.95	SW
+30	6	2018	 Campobasso e Pescolanciano	28.8	13.2	20.65	NA	NA	72.5	0.0	1.65	SW
+1	7	2018	 Campobasso e Pescolanciano	29.8	14.8	22.05	NA	NA	67.0	0.0	3.2	SSE
+2	7	2018	 Campobasso e Pescolanciano	29.65	14.7	21.95	NA	NA	60.5	0.0	3.1	SSE
+3	7	2018	 Campobasso e Pescolanciano	29.5	13.6	21.75	NA	NA	70.5	0.0	3.85	SSE
+4	7	2018	 Campobasso e Pescolanciano	60.1	33.3	46.3	NA	NA	145.0	0.0	9.6	ENE
+5	7	2018	 Campobasso e Pescolanciano	31.45	15.8	23.2	NA	NA	67.5	0.0	3.55	SSE
+6	7	2018	 Campobasso e Pescolanciano	29.4	15.3	21.4	NA	NA	73.0	0.1	3.65	SSE
+7	7	2018	 Campobasso e Pescolanciano	25.05	13.2	19.1	NA	NA	74.5	0.0	7.65	SSW
+8	7	2018	 Campobasso e Pescolanciano	25.1	12.35	18.4	NA	NA	67.5	0.0	7.55	NW
+9	7	2018	 Campobasso e Pescolanciano	24.7	10.85	17.65	NA	NA	64.0	0.0	7.5	NW
+10	7	2018	 Campobasso e Pescolanciano	27.7	10.75	18.95	NA	NA	60.5	0.0	3.75	SSE
+11	7	2018	 Campobasso e Pescolanciano	26.15	14.85	20.95	NA	NA	67.5	0.0	7.45	SSE
+12	7	2018	 Campobasso e Pescolanciano	27.95	15.35	21.4	NA	NA	67.5	0.0	5.75	SSE
+13	7	2018	 Campobasso e Pescolanciano	31.7	14.75	22.05	NA	NA	69.0	0.9	2.8	ENE
+14	7	2018	 Campobasso e Pescolanciano	30.65	14.7	22.25	NA	NA	67.0	0.1	2.55	ESE
+15	7	2018	 Campobasso e Pescolanciano	31.75	17.3	23.15	NA	NA	68.0	0.2	2.25	ESE
+16	7	2018	 Campobasso e Pescolanciano	29.95	15.35	22.3	NA	NA	59.5	0.1	7.5	SSE
+17	7	2018	 Campobasso e Pescolanciano	23.7	14.2	18.45	NA	NA	85.5	13.7	3.85	SSW
+18	7	2018	 Campobasso e Pescolanciano	27.9	12.7	20.6	NA	NA	63.5	0.0	4.95	W
+19	7	2018	 Campobasso e Pescolanciano	29.95	15.6	21.15	NA	NA	66.5	0.5	3.25	SSE
+20	7	2018	 Campobasso e Pescolanciano	31.4	14.4	22.75	NA	NA	62.0	0.0	2.7	SSE
+21	7	2018	 Campobasso e Pescolanciano	31.8	15.75	23.35	NA	NA	58.0	0.0	4.0	ESE
+22	7	2018	 Campobasso e Pescolanciano	29.35	15.95	22.8	NA	NA	68.0	0.1	3.45	SSE
+23	7	2018	 Campobasso e Pescolanciano	22.45	15.2	17.9	NA	NA	85.0	22.2	5.8	SSW
+24	7	2018	 Campobasso e Pescolanciano	25.25	14.65	19.55	NA	NA	73.5	0.0	9.65	NW
+25	7	2018	 Campobasso e Pescolanciano	26.5	12.7	19.75	NA	NA	65.0	0.0	7.25	NW
+26	7	2018	 Campobasso e Pescolanciano	27.25	13.5	19.75	NA	NA	67.0	4.1	5.75	NW
+27	7	2018	 Campobasso e Pescolanciano	27.45	14.35	19.55	NA	NA	75.0	12.5	1.65	ESE
+28	7	2018	 Campobasso e Pescolanciano	29.6	14.7	20.7	NA	NA	77.5	5.8	2.35	SSE
+29	7	2018	 Campobasso e Pescolanciano	29.5	16.55	22.2	NA	NA	74.0	0.0	3.75	SW
+30	7	2018	 Campobasso e Pescolanciano	29.05	15.8	22.25	NA	NA	69.5	0.0	6.0	NW
+31	7	2018	 Campobasso e Pescolanciano	29.55	16.15	22.55	NA	NA	65.5	0.0	6.75	SSW
+1	8	2018	 Campobasso e Pescolanciano	29.6	15.3	22.55	NA	NA	62.5	0.0	6.2	NW
+2	8	2018	 Campobasso e Pescolanciano	29.55	15.6	22.45	NA	NA	66.5	0.0	7.0	NW
+3	8	2018	 Campobasso e Pescolanciano	25.3	16.5	19.8	NA	NA	81.0	3.7	5.15	SSW
+4	8	2018	 Campobasso e Pescolanciano	26.55	15.25	19.85	NA	NA	80.5	19.2	6.2	SSW
+5	8	2018	 Campobasso e Pescolanciano	29.9	15.6	21.45	NA	NA	74.0	0.2	3.15	ENE
+6	8	2018	 Campobasso e Pescolanciano	30.65	15.6	21.85	NA	NA	70.0	0.0	1.9	ESE
+7	8	2018	 Campobasso e Pescolanciano	31.75	15.35	22.8	NA	NA	66.0	0.1	2.3	ESE
+8	8	2018	 Campobasso e Pescolanciano	30.75	15.5	21.3	NA	NA	69.5	7.0	2.2	ESE
+9	8	2018	 Campobasso e Pescolanciano	31.3	15.25	22.45	NA	NA	66.5	0.0	1.95	ESE
+10	8	2018	 Campobasso e Pescolanciano	31.7	15.7	22.2	NA	NA	68.5	0.7	3.15	SSW
+11	8	2018	 Campobasso e Pescolanciano	31.85	16.05	23.0	NA	NA	63.5	0.0	2.6	ENE
+12	8	2018	 Campobasso e Pescolanciano	30.9	15.95	22.3	NA	NA	67.5	1.6	1.95	ESE
+13	8	2018	 Campobasso e Pescolanciano	28.9	15.3	22.25	NA	NA	63.5	0.0	4.9	SSE
+14	8	2018	 Campobasso e Pescolanciano	29.15	13.7	19.55	NA	NA	75.5	12.2	3.35	SSE
+15	8	2018	 Campobasso e Pescolanciano	21.7	13.35	16.9	NA	NA	83.5	2.3	4.6	SSW
+16	8	2018	 Campobasso e Pescolanciano	24.8	16.0	19.45	NA	NA	81.5	1.9	1.1	SSE
+17	8	2018	 Campobasso e Pescolanciano	27.75	12.85	18.7	NA	NA	78.0	5.0	0.7	SSW
+18	8	2018	 Campobasso e Pescolanciano	27.8	10.9	17.65	NA	NA	81.5	11.0	0.95	W
+19	8	2018	 Campobasso e Pescolanciano	28.9	10.7	18.55	NA	NA	80.0	0.3	0.75	SSE
+20	8	2018	 Campobasso e Pescolanciano	29.0	13.35	19.45	NA	NA	80.0	0.1	0.9	SSE
+21	8	2018	 Campobasso e Pescolanciano	29.4	10.6	18.8	NA	NA	78.5	5.3	0.8	ESE
+22	8	2018	 Campobasso e Pescolanciano	28.9	11.35	18.65	NA	NA	81.0	2.6	0.75	SSE
+23	8	2018	 Campobasso e Pescolanciano	29.3	10.5	18.0	NA	NA	81.0	12.0	0.8	SSW
+24	8	2018	 Campobasso e Pescolanciano	28.6	12.95	20.05	NA	NA	75.0	0.3	1.0	NW
+25	8	2018	 Campobasso e Pescolanciano	26.55	11.2	18.25	NA	NA	78.5	0.0	2.0	NW
+26	8	2018	 Campobasso e Pescolanciano	24.0	14.05	19.4	NA	NA	72.0	0.1	3.1	NW
+27	8	2018	 Campobasso e Pescolanciano	22.4	9.8	15.8	NA	NA	75.0	0.1	1.75	ESE
+28	8	2018	 Campobasso e Pescolanciano	26.6	7.1	16.65	NA	NA	75.5	0.0	1.25	SSE
+29	8	2018	 Campobasso e Pescolanciano	29.1	8.9	18.55	NA	NA	74.0	0.0	0.65	SW
+30	8	2018	 Campobasso e Pescolanciano	28.9	11.5	19.3	NA	NA	77.5	0.0	1.1	NW
+31	8	2018	 Campobasso e Pescolanciano	27.5	11.4	19.35	NA	NA	77.5	0.1	2.25	SSW
+1	9	2018	 Campobasso e Pescolanciano	24.3	15.0	18.75	NA	NA	76.0	1.25	3.45	SSE
+2	9	2018	 Campobasso e Pescolanciano	24.75	11.4	17.0	NA	NA	75.0	0.9	2.85	SE
+3	9	2018	 Campobasso e Pescolanciano	24.75	11.35	17.5	NA	NA	71.5	0.0	2.4	S
+4	9	2018	 Campobasso e Pescolanciano	25.0	11.6	18.05	NA	NA	72.0	0.0	3.1	S
+5	9	2018	 Campobasso e Pescolanciano	25.9	11.55	18.15	NA	NA	74.0	0.0	1.3	SW
+6	9	2018	 Campobasso e Pescolanciano	27.2	11.45	18.55	NA	NA	72.5	0.8	1.45	ESE
+7	9	2018	 Campobasso e Pescolanciano	26.6	12.2	17.85	NA	NA	75.0	19.25	1.9	S
+8	9	2018	 Campobasso e Pescolanciano	23.6	10.8	17.0	NA	NA	80.0	0.1	1.0	E
+9	9	2018	 Campobasso e Pescolanciano	25.7	11.2	18.1	NA	NA	78.5	0.0	1.3	E
+10	9	2018	 Campobasso e Pescolanciano	25.55	13.2	18.7	NA	NA	76.0	0.0	1.15	ENE
+11	9	2018	 Campobasso e Pescolanciano	27.25	10.2	18.2	NA	NA	65.5	0.0	2.1	ENE
+12	9	2018	 Campobasso e Pescolanciano	27.55	10.75	18.4	NA	NA	63.5	0.0	1.85	SW
+13	9	2018	 Campobasso e Pescolanciano	26.45	11.95	18.65	NA	NA	70.5	0.0	0.75	SE
+14	9	2018	 Campobasso e Pescolanciano	27.1	14.45	19.2	NA	NA	73.5	3.6	1.15	S
+15	9	2018	 Campobasso e Pescolanciano	25.95	14.25	18.45	NA	NA	78.5	1.0	1.35	SSW
+16	9	2018	 Campobasso e Pescolanciano	26.95	12.95	19.0	NA	NA	78.0	0.0	1.4	ENE
+17	9	2018	 Campobasso e Pescolanciano	26.75	13.0	18.45	NA	NA	79.0	7.6	1.4	ESE
+18	9	2018	 Campobasso e Pescolanciano	25.65	14.55	18.25	NA	NA	83.5	0.5	0.95	SE
+19	9	2018	 Campobasso e Pescolanciano	22.95	14.6	17.9	NA	NA	85.5	11.0	1.65	ENE
+20	9	2018	 Campobasso e Pescolanciano	22.6	15.85	18.0	NA	NA	88.0	14.5	1.65	ENE
+21	9	2018	 Campobasso e Pescolanciano	22.9	13.65	17.9	NA	NA	85.5	6.4	0.8	ESE
+22	9	2018	 Campobasso e Pescolanciano	27.75	13.05	19.5	NA	NA	73.5	0.0	1.4	SSE
+23	9	2018	 Campobasso e Pescolanciano	27.3	13.7	20.15	NA	NA	71.5	0.0	2.75	S
+24	9	2018	 Campobasso e Pescolanciano	26.8	11.95	19.2	NA	NA	78.0	9.9	9.55	S
+25	9	2018	 Campobasso e Pescolanciano	15.5	8.85	11.65	NA	NA	66.0	0.0	10.65	NW
+26	9	2018	 Campobasso e Pescolanciano	13.5	6.95	9.35	NA	NA	68.0	0.0	13.0	NW
+27	9	2018	 Campobasso e Pescolanciano	17.65	3.4	9.8	NA	NA	74.5	0.0	8.15	SW
+28	9	2018	 Campobasso e Pescolanciano	20.95	4.05	11.35	NA	NA	66.0	0.0	5.3	SW
+29	9	2018	 Campobasso e Pescolanciano	21.3	5.95	12.7	NA	NA	67.5	0.0	8.05	NW
+30	9	2018	 Campobasso e Pescolanciano	19.1	5.9	11.75	NA	NA	77.0	0.0	4.3	SSW
+1	10	2018	 Campobasso e Pescolanciano	20.25	7.45	13.85	NA	NA	80.5	3.0	3.35	S
+2	10	2018	 Campobasso e Pescolanciano	17.35	8.2	12.75	NA	NA	80.5	0.3	3.55	S
+3	10	2018	 Campobasso e Pescolanciano	17.0	8.75	12.5	NA	NA	84.5	0.0	7.55	SW
+4	10	2018	 Campobasso e Pescolanciano	15.05	9.8	12.7	NA	NA	86.5	0.8	10.9	NE
+5	10	2018	 Campobasso e Pescolanciano	13.5	11.7	12.45	NA	NA	90.0	1.3	3.4	ENE
+6	10	2018	 Campobasso e Pescolanciano	20.3	12.25	14.9	NA	NA	85.0	3.2	2.25	ESE
+7	10	2018	 Campobasso e Pescolanciano	21.3	12.3	15.55	NA	NA	84.0	1.1	1.2	S
+8	10	2018	 Campobasso e Pescolanciano	20.35	10.2	14.0	NA	NA	85.5	0.0	2.1	ENE
+9	10	2018	 Campobasso e Pescolanciano	20.35	9.65	13.9	NA	NA	84.0	0.0	1.7	ENE
+10	10	2018	 Campobasso e Pescolanciano	22.25	8.0	14.1	NA	NA	81.0	0.1	1.25	ESE
+11	10	2018	 Campobasso e Pescolanciano	20.8	9.0	14.45	NA	NA	80.0	0.0	1.35	ESE
+12	10	2018	 Campobasso e Pescolanciano	19.65	8.25	13.9	NA	NA	78.0	0.0	4.25	ENE
+13	10	2018	 Campobasso e Pescolanciano	20.0	5.75	11.75	NA	NA	75.5	0.0	3.7	ENE
+14	10	2018	 Campobasso e Pescolanciano	19.85	5.2	12.1	NA	NA	80.5	0.0	1.85	ESE
+15	10	2018	 Campobasso e Pescolanciano	14.7	11.55	13.05	NA	NA	89.5	7.3	1.4	ESE
+1	11	2018	 Campobasso e Pescolanciano	15.05	8.7	12.65	NA	NA	86.5	7.6	2.3	SE
+2	11	2018	 Campobasso e Pescolanciano	13.45	10.25	11.8	NA	NA	89.0	21.9	1.0	ESE
+3	11	2018	 Campobasso e Pescolanciano	16.0	10.2	12.75	NA	NA	90.5	0.4	2.4	ENE
+4	11	2018	 Campobasso e Pescolanciano	13.4	9.4	11.95	NA	NA	92.0	2.4	3.0	ESE
+5	11	2018	 Campobasso e Pescolanciano	14.95	7.25	11.05	NA	NA	87.0	0.4	1.3	ESE
+6	11	2018	 Campobasso e Pescolanciano	19.0	5.65	11.0	NA	NA	76.5	0.1	0.6	S
+7	11	2018	 Campobasso e Pescolanciano	16.05	5.65	10.8	NA	NA	82.5	2.2	2.3	SSE
+8	11	2018	 Campobasso e Pescolanciano	9.85	4.1	6.15	NA	NA	78.5	0.0	0.3	S
+9	11	2018	 Campobasso e Pescolanciano	18.15	3.25	8.6	NA	NA	78.0	0.1	0.25	ESE
+10	11	2018	 Campobasso e Pescolanciano	16.8	2.7	7.75	NA	NA	82.0	0.0	0.4	SE
+11	11	2018	 Campobasso e Pescolanciano	18.5	2.55	9.1	NA	NA	79.5	0.3	0.25	SW
+12	11	2018	 Campobasso e Pescolanciano	19.65	3.75	9.4	NA	NA	74.0	0.0	0.2	ESE
+13	11	2018	 Campobasso e Pescolanciano	20.05	3.9	9.6	NA	NA	75.0	0.0	0.15	ESE
+14	11	2018	 Campobasso e Pescolanciano	15.85	3.05	7.85	NA	NA	82.5	0.0	2.5	SW
+15	11	2018	 Campobasso e Pescolanciano	11.95	3.7	7.95	NA	NA	89.0	0.1	3.0	SW
+16	11	2018	 Campobasso e Pescolanciano	9.55	1.15	6.3	NA	NA	86.0	2.7	4.25	ENE
+17	11	2018	 Campobasso e Pescolanciano	7.45	0.8	3.95	NA	NA	84.5	0.9	3.15	SSE
+18	11	2018	 Campobasso e Pescolanciano	4.75	0.2	3.1	NA	NA	90.5	0.7	5.9	SSE
+19	11	2018	 Campobasso e Pescolanciano	7.35	-1.65	2.75	NA	NA	90.0	52.0	1.5	ESE
+20	11	2018	 Campobasso e Pescolanciano	14.5	6.3	10.05	NA	NA	84.5	20.3	3.35	SE
+21	11	2018	 Campobasso e Pescolanciano	13.65	4.75	8.7	NA	NA	82.5	0.1	2.0	W
+22	11	2018	 Campobasso e Pescolanciano	14.75	3.95	7.1	NA	NA	83.0	0.0	2.45	S
+23	11	2018	 Campobasso e Pescolanciano	13.9	3.3	8.25	NA	NA	85.0	0.0	0.45	NE
+24	11	2018	 Campobasso e Pescolanciano	13.55	8.05	11.3	NA	NA	80.5	7.2	3.5	SE
+25	11	2018	 Campobasso e Pescolanciano	12.2	8.35	10.1	NA	NA	82.5	8.6	3.75	SE
+26	11	2018	 Campobasso e Pescolanciano	9.5	6.15	7.85	NA	NA	79.5	1.2	6.3	S
+27	11	2018	 Campobasso e Pescolanciano	7.1	2.95	5.2	NA	NA	86.5	15.5	8.6	NW
+28	11	2018	 Campobasso e Pescolanciano	5.35	0.25	3.0	NA	NA	87.5	0.0	11.6	SW
+29	11	2018	 Campobasso e Pescolanciano	8.45	-1.4	3.8	NA	NA	84.5	0.0	6.35	SW
+30	11	2018	 Campobasso e Pescolanciano	8.7	-3.05	2.3	NA	NA	84.5	0.0	0.35	ESE
+1	12	2018	 Campobasso e Pescolanciano	9.25	-0.05	4.2	NA	NA	85.5	0.1	0.55	NE
+2	12	2018	 Campobasso e Pescolanciano	12.65	0.55	4.95	NA	NA	85.5	0.0	0.45	ESE
+3	12	2018	 Campobasso e Pescolanciano	13.85	3.6	8.6	NA	NA	82.0	0.0	4.75	W
+4	12	2018	 Campobasso e Pescolanciano	15.15	3.9	9.55	NA	NA	83.5	0.1	4.45	NE
+5	12	2018	 Campobasso e Pescolanciano	12.05	1.65	5.3	NA	NA	84.0	0.0	3.55	NE
+6	12	2018	 Campobasso e Pescolanciano	10.9	0.9	5.45	NA	NA	87.0	0.1	1.2	ENE
+7	12	2018	 Campobasso e Pescolanciano	13.15	0.3	5.95	NA	NA	82.0	0.1	2.85	S
+8	12	2018	 Campobasso e Pescolanciano	11.2	0.95	7.25	NA	NA	82.0	3.55	9.65	S
+9	12	2018	 Campobasso e Pescolanciano	11.2	-0.6	5.45	NA	NA	72.0	0.6	7.65	S
+10	12	2018	 Campobasso e Pescolanciano	9.8	-0.6	4.45	NA	NA	75.0	0.9	5.7	WNW
+11	12	2018	 Campobasso e Pescolanciano	7.6	-2.25	1.1	NA	NA	83.5	0.2	1.7	SSW
+12	12	2018	 Campobasso e Pescolanciano	7.55	-5.25	-0.1	NA	NA	79.0	0.2	0.5	SE
+13	12	2018	 Campobasso e Pescolanciano	5.45	-0.6	2.65	NA	NA	85.5	0.8	0.35	S
+14	12	2018	 Campobasso e Pescolanciano	5.15	2.0	3.2	NA	NA	88.5	19.8	2.25	ENE
+15	12	2018	 Campobasso e Pescolanciano	2.1	-3.2	-0.3	NA	NA	87.5	2.55	8.0	NE
+16	12	2018	 Campobasso e Pescolanciano	5.35	-5.6	-0.3	NA	NA	77.5	2.4	1.45	SSW
+17	12	2018	 Campobasso e Pescolanciano	3.7	0.85	1.85	NA	NA	88.5	8.9	7.6	NE
+18	12	2018	 Campobasso e Pescolanciano	6.7	-3.1	2.15	NA	NA	80.5	0.0	10.65	NNE
+19	12	2018	 Campobasso e Pescolanciano	8.55	-4.55	1.1	NA	NA	77.0	0.0	0.9	SSW
+20	12	2018	 Campobasso e Pescolanciano	9.25	3.2	5.8	NA	NA	81.0	0.1	2.25	S
+21	12	2018	 Campobasso e Pescolanciano	11.5	0.55	5.7	NA	NA	75.0	0.1	4.3	W
+22	12	2018	 Campobasso e Pescolanciano	11.55	6.2	8.35	NA	NA	77.0	0.0	13.4	S
+23	12	2018	 Campobasso e Pescolanciano	14.0	5.6	9.1	NA	NA	72.0	0.1	2.7	S
+24	12	2018	 Campobasso e Pescolanciano	13.7	4.35	9.15	NA	NA	77.0	0.3	9.15	W
+25	12	2018	 Campobasso e Pescolanciano	6.6	1.75	3.4	NA	NA	76.0	0.2	8.35	NNW
+26	12	2018	 Campobasso e Pescolanciano	9.6	-2.75	2.15	NA	NA	68.0	0.0	4.0	NE
+27	12	2018	 Campobasso e Pescolanciano	11.4	-2.85	2.05	NA	NA	60.5	0.0	0.6	NNW
+28	12	2018	 Campobasso e Pescolanciano	11.4	-2.95	2.1	NA	NA	68.0	0.0	0.35	S
+29	12	2018	 Campobasso e Pescolanciano	12.35	-2.85	2.85	NA	NA	67.0	0.0	1.15	SSW
+30	12	2018	 Campobasso e Pescolanciano	8.45	-3.25	2.2	NA	NA	71.0	1.95	2.35	NE
+31	12	2018	 Campobasso e Pescolanciano	3.45	0.2	1.65	NA	NA	62.0	5.75	8.95	ENE
+1	1	2019	 Campobasso e Pescolanciano	5.55	-3.1	0.9	NA	NA	54.5	0.5	9.8	NNW
+2	1	2019	 Campobasso e Pescolanciano	6.4	-5.0	-0.55	NA	NA	45.0	0.5	5.35	NE
+3	1	2019	 Campobasso e Pescolanciano	-1.9	-4.5	-3.1	NA	NA	59.5	0.0	13.5	NE
+4	1	2019	 Campobasso e Pescolanciano	-1.85	-5.25	-4.15	NA	NA	77.5	0.0	11.15	NNW
+5	1	2019	 Campobasso e Pescolanciano	4.25	-4.1	-0.85	NA	NA	73.0	0.1	5.9	NNE
+6	1	2019	 Campobasso e Pescolanciano	6.7	-5.75	-0.4	NA	NA	64.5	1.6	3.45	N
+7	1	2019	 Campobasso e Pescolanciano	3.05	-1.45	0.05	NA	NA	59.5	1.25	3.3	SSW
+8	1	2019	 Campobasso e Pescolanciano	5.6	-5.25	1.3	NA	NA	69.5	0.4	5.9	W
+9	1	2019	 Campobasso e Pescolanciano	3.75	-0.6	1.45	NA	NA	64.0	2.55	5.15	NNW
+10	1	2019	 Campobasso e Pescolanciano	2.35	-2.55	-0.15	NA	NA	84.0	0.2	9.8	NNW
+11	1	2019	 Campobasso e Pescolanciano	1.2	-5.05	-1.85	NA	NA	78.5	0.0	6.2	NNW
+12	1	2019	 Campobasso e Pescolanciano	3.6	-5.8	-1.65	NA	NA	75.5	0.0	5.5	NNW
+13	1	2019	 Campobasso e Pescolanciano	9.1	-5.0	1.05	NA	NA	58.5	0.1	1.8	S
+14	1	2019	 Campobasso e Pescolanciano	6.9	-1.55	3.05	NA	NA	45.0	0.6	8.05	W
+15	1	2019	 Campobasso e Pescolanciano	4.75	-4.6	-0.35	NA	NA	51.0	4.15	3.35	NW
+16	1	2019	 Campobasso e Pescolanciano	9.0	-4.1	1.65	NA	NA	55.5	1.1	5.3	W
+17	1	2019	 Campobasso e Pescolanciano	8.5	2.25	5.0	NA	NA	71.5	3.2	6.45	S
+18	1	2019	 Campobasso e Pescolanciano	8.9	1.9	5.3	NA	NA	64.5	1.4	3.4	S
+19	1	2019	 Campobasso e Pescolanciano	7.95	-0.75	2.7	NA	NA	43.5	0.2	0.9	S
+20	1	2019	 Campobasso e Pescolanciano	5.25	-1.2	1.75	NA	NA	45.0	0.7	0.75	ESE
+21	1	2019	 Campobasso e Pescolanciano	4.3	1.45	2.4	NA	NA	49.5	8.7	0.7	NE
+22	1	2019	 Campobasso e Pescolanciano	3.65	0.15	1.55	NA	NA	48.0	18.0	3.4	S
+23	1	2019	 Campobasso e Pescolanciano	6.05	-1.55	1.5	NA	NA	51.5	3.7	1.7	S
+24	1	2019	 Campobasso e Pescolanciano	2.95	-3.0	0.3	NA	NA	49.0	12.95	5.75	ENE
+25	1	2019	 Campobasso e Pescolanciano	2.75	-1.1	0.2	NA	NA	68.0	2.25	16.6	NW
+26	1	2019	 Campobasso e Pescolanciano	4.95	-3.25	0.15	NA	NA	80.5	0.0	10.0	NW
+27	1	2019	 Campobasso e Pescolanciano	7.75	-2.95	3.3	NA	NA	62.5	2.5	5.95	S
+28	1	2019	 Campobasso e Pescolanciano	6.65	0.2	3.05	NA	NA	42.0	11.15	6.75	S
+29	1	2019	 Campobasso e Pescolanciano	2.5	-0.65	0.9	NA	NA	47.0	0.55	0.75	NE
+30	1	2019	 Campobasso e Pescolanciano	5.5	-2.25	1.2	NA	NA	53.5	0.5	2.5	S
+31	1	2019	 Campobasso e Pescolanciano	6.4	-1.35	2.4	NA	NA	51.0	3.0	8.0	S
+1	2	2019	 Campobasso e Pescolanciano	9.4	5.45	7.85	NA	NA	50.0	13.3	7.55	SSE
+2	2	2019	 Campobasso e Pescolanciano	12.15	6.4	9.5	NA	NA	79.5	31.6	11.1	SSE
+3	2	2019	 Campobasso e Pescolanciano	7.5	1.6	5.3	NA	NA	77.0	1.0	4.55	SSE
+4	2	2019	 Campobasso e Pescolanciano	6.0	-0.65	2.9	NA	NA	63.0	5.0	7.7	NW
+5	2	2019	 Campobasso e Pescolanciano	7.35	0.35	3.25	NA	NA	78.0	0.2	9.7	ENE
+6	2	2019	 Campobasso e Pescolanciano	8.85	-0.25	3.75	NA	NA	81.5	0.0	9.9	NNW
+7	2	2019	 Campobasso e Pescolanciano	13.4	-2.0	3.7	NA	NA	60.5	0.0	3.9	ENE
+8	2	2019	 Campobasso e Pescolanciano	10.7	-0.55	4.1	NA	NA	55.5	0.0	2.15	ENE
+9	2	2019	 Campobasso e Pescolanciano	12.45	-1.6	6.05	NA	NA	57.5	0.0	3.15	S
+10	2	2019	 Campobasso e Pescolanciano	9.95	1.5	6.15	NA	NA	53.5	0.1	8.95	S
+11	2	2019	 Campobasso e Pescolanciano	11.15	-0.3	6.1	NA	NA	69.0	1.4	9.75	S
+12	2	2019	 Campobasso e Pescolanciano	4.6	-1.75	1.2	NA	NA	52.5	6.2	5.25	NNW
+13	2	2019	 Campobasso e Pescolanciano	4.2	-0.3	1.65	NA	NA	67.5	0.6	12.55	N
+14	2	2019	 Campobasso e Pescolanciano	10.8	-1.0	4.3	NA	NA	63.0	0.0	9.05	ENE
+15	2	2019	 Campobasso e Pescolanciano	9.4	-1.25	5.2	NA	NA	67.0	0.0	9.5	NNW
+16	2	2019	 Campobasso e Pescolanciano	10.7	-1.75	3.75	NA	NA	66.0	0.0	5.0	ENE
+17	2	2019	 Campobasso e Pescolanciano	16.4	-2.45	5.1	NA	NA	44.0	0.0	2.5	S
+18	2	2019	 Campobasso e Pescolanciano	15.05	-1.65	5.15	NA	NA	52.5	0.1	2.4	SSE
+19	2	2019	 Campobasso e Pescolanciano	12.85	-2.2	4.8	NA	NA	57.5	0.0	1.45	SE
+20	2	2019	 Campobasso e Pescolanciano	13.2	-2.7	3.9	NA	NA	62.0	0.0	1.55	SE
+21	2	2019	 Campobasso e Pescolanciano	12.6	0.0	5.2	NA	NA	62.5	0.0	2.7	ENE
+22	2	2019	 Campobasso e Pescolanciano	14.05	-1.4	5.3	NA	NA	53.5	0.7	6.25	NNW
+23	2	2019	 Campobasso e Pescolanciano	4.4	-4.9	-2.0	NA	NA	63.5	0.3	16.9	NNW
+24	2	2019	 Campobasso e Pescolanciano	3.55	-2.75	-0.15	NA	NA	66.0	0.1	13.65	NNW
+25	2	2019	 Campobasso e Pescolanciano	4.85	-1.45	1.15	NA	NA	73.0	0.3	11.55	NNW
+26	2	2019	 Campobasso e Pescolanciano	13.3	-2.7	6.25	NA	NA	57.5	0.3	8.05	NNW
+27	2	2019	 Campobasso e Pescolanciano	11.75	0.65	7.15	NA	NA	51.5	0.0	9.15	N
+28	2	2019	 Campobasso e Pescolanciano	17.9	-1.85	7.5	NA	NA	50.0	0.0	4.0	S
+1	3	2019	 Campobasso e Pescolanciano	14.7	4.55	8.55	NA	NA	74.0	0.0	6.15	W
+2	3	2019	 Campobasso e Pescolanciano	13.7	1.1	6.7	NA	NA	79.5	6.3	5.05	NW
+3	3	2019	 Campobasso e Pescolanciano	16.05	0.25	6.8	NA	NA	72.5	0.0	1.9	S
+4	3	2019	 Campobasso e Pescolanciano	15.3	3.25	8.85	NA	NA	67.0	0.0	9.4	W
+5	3	2019	 Campobasso e Pescolanciano	13.8	5.45	9.6	NA	NA	77.5	0.0	6.85	S
+6	3	2019	 Campobasso e Pescolanciano	16.85	4.1	9.6	NA	NA	76.0	0.0	4.9	W
+7	3	2019	 Campobasso e Pescolanciano	17.9	7.2	12.8	NA	NA	64.0	0.0	7.65	SSE
+8	3	2019	 Campobasso e Pescolanciano	18.7	5.5	12.0	NA	NA	65.5	0.0	4.4	W
+9	3	2019	 Campobasso e Pescolanciano	16.25	4.6	10.25	NA	NA	65.5	0.0	6.5	W
+10	3	2019	 Campobasso e Pescolanciano	13.85	5.65	9.45	NA	NA	75.5	0.0	10.7	W
+11	3	2019	 Campobasso e Pescolanciano	14.2	1.65	8.6	NA	NA	74.5	1.6	12.55	S
+12	3	2019	 Campobasso e Pescolanciano	7.1	-1.65	3.1	NA	NA	76.5	1.3	16.7	NW
+13	3	2019	 Campobasso e Pescolanciano	13.65	-3.6	5.25	NA	NA	62.5	0.5	5.95	S
+14	3	2019	 Campobasso e Pescolanciano	9.8	0.2	4.8	NA	NA	75.0	1.8	6.75	NW
+15	3	2019	 Campobasso e Pescolanciano	17.35	1.1	8.7	NA	NA	65.5	0.0	4.55	W
+16	3	2019	 Campobasso e Pescolanciano	15.75	2.8	9.9	NA	NA	51.0	0.0	5.0	WSW
+17	3	2019	 Campobasso e Pescolanciano	18.25	6.05	10.7	NA	NA	55.5	0.0	3.25	S
+18	3	2019	 Campobasso e Pescolanciano	17.15	5.35	9.75	NA	NA	59.5	0.0	5.4	S
+19	3	2019	 Campobasso e Pescolanciano	11.4	-0.35	5.1	NA	NA	63.0	0.3	4.3	ENE
+20	3	2019	 Campobasso e Pescolanciano	7.6	1.0	4.55	NA	NA	74.0	0.2	8.9	NNW
+21	3	2019	 Campobasso e Pescolanciano	13.55	-0.9	6.2	NA	NA	60.5	0.0	8.25	NE
+22	3	2019	 Campobasso e Pescolanciano	15.35	-0.35	7.55	NA	NA	49.5	0.0	6.65	E
+23	3	2019	 Campobasso e Pescolanciano	17.4	0.45	7.95	NA	NA	42.5	0.0	6.3	NE
+24	3	2019	 Campobasso e Pescolanciano	21.15	1.3	10.6	NA	NA	40.5	0.0	3.95	S
+25	3	2019	 Campobasso e Pescolanciano	18.45	4.4	11.05	NA	NA	51.5	0.0	8.3	W
+26	3	2019	 Campobasso e Pescolanciano	8.6	2.7	5.0	NA	NA	67.5	0.4	9.4	NNW
+27	3	2019	 Campobasso e Pescolanciano	6.05	3.1	4.3	NA	NA	74.5	0.8	8.25	NNW
+28	3	2019	 Campobasso e Pescolanciano	10.35	0.35	5.35	NA	NA	62.0	0.0	10.65	NNW
+29	3	2019	 Campobasso e Pescolanciano	13.2	-1.7	5.7	NA	NA	57.0	0.0	7.55	NNW
+30	3	2019	 Campobasso e Pescolanciano	16.45	-1.6	6.45	NA	NA	48.5	0.0	5.35	NE
+31	3	2019	 Campobasso e Pescolanciano	19.2	6.0	12.35	NA	NA	72.0	0.0	10.05	SW
+1	4	2019	 Campobasso e Pescolanciano	20.15	2.75	10.7	NA	NA	37.5	0.0	3.2	E
+2	4	2019	 Campobasso e Pescolanciano	19.4	3.0	11.2	NA	NA	45.0	0.0	3.05	SSE
+3	4	2019	 Campobasso e Pescolanciano	14.9	5.1	9.3	NA	NA	60.0	0.0	5.5	S
+4	4	2019	 Campobasso e Pescolanciano	14.4	5.7	9.5	NA	NA	65.5	1.9	4.35	SE
+5	4	2019	 Campobasso e Pescolanciano	14.95	1.6	8.0	NA	NA	45.0	7.0	5.9	SSE
+6	4	2019	 Campobasso e Pescolanciano	18.9	0.2	9.35	NA	NA	53.0	0.0	3.4	S
+7	4	2019	 Campobasso e Pescolanciano	15.65	6.15	9.6	NA	NA	63.0	1.5	5.2	S
+8	4	2019	 Campobasso e Pescolanciano	15.25	3.4	7.15	NA	NA	48.0	9.6	4.55	SSW
+9	4	2019	 Campobasso e Pescolanciano	14.65	5.5	8.65	NA	NA	48.5	1.4	3.45	SSW
+10	4	2019	 Campobasso e Pescolanciano	15.2	3.9	8.35	NA	NA	50.5	0.1	4.7	S
+11	4	2019	 Campobasso e Pescolanciano	14.25	2.5	6.9	NA	NA	50.5	10.2	2.6	S
+12	4	2019	 Campobasso e Pescolanciano	12.05	3.8	6.9	NA	NA	57.0	0.7	3.6	ENE
+13	4	2019	 Campobasso e Pescolanciano	10.3	4.1	6.45	NA	NA	61.5	0.1	4.85	ENE
+14	4	2019	 Campobasso e Pescolanciano	13.9	1.7	6.65	NA	NA	58.5	5.5	2.6	ENE
+15	4	2019	 Campobasso e Pescolanciano	8.3	0.55	4.25	NA	NA	46.0	9.0	7.05	NNW
+16	4	2019	 Campobasso e Pescolanciano	15.1	0.4	7.05	NA	NA	45.0	2.1	2.9	SSW
+17	4	2019	 Campobasso e Pescolanciano	15.95	3.95	8.9	NA	NA	47.0	0.1	3.95	E
+18	4	2019	 Campobasso e Pescolanciano	16.05	1.85	8.65	NA	NA	44.0	0.0	6.15	N
+19	4	2019	 Campobasso e Pescolanciano	17.2	1.7	8.9	NA	NA	46.5	0.0	4.5	E
+20	4	2019	 Campobasso e Pescolanciano	18.5	1.25	9.7	NA	NA	41.5	0.0	4.4	E
+21	4	2019	 Campobasso e Pescolanciano	15.85	4.35	10.25	NA	NA	48.0	0.0	2.95	ESE
+22	4	2019	 Campobasso e Pescolanciano	13.35	6.35	9.95	NA	NA	65.0	3.5	2.35	SE
+23	4	2019	 Campobasso e Pescolanciano	17.95	6.7	11.6	NA	NA	53.5	0.3	4.15	SSE
+24	4	2019	 Campobasso e Pescolanciano	23.8	9.15	16.35	NA	NA	47.0	0.0	4.25	S
+25	4	2019	 Campobasso e Pescolanciano	25.3	7.95	16.75	NA	NA	41.5	0.0	3.5	SE
+26	4	2019	 Campobasso e Pescolanciano	23.95	10.05	16.7	NA	NA	54.5	0.2	4.3	S
+27	4	2019	 Campobasso e Pescolanciano	19.35	5.45	12.3	NA	NA	47.5	0.1	5.75	SSW
+28	4	2019	 Campobasso e Pescolanciano	16.5	6.35	10.65	NA	NA	60.5	0.0	5.5	S
+29	4	2019	 Campobasso e Pescolanciano	10.35	1.7	6.15	NA	NA	59.0	10.9	3.7	SSW
+30	4	2019	 Campobasso e Pescolanciano	13.35	0.3	6.3	NA	NA	48.0	0.4	3.6	S
+1	5	2019	 Campobasso e Pescolanciano	14.5	3.25	7.8	NA	NA	46.0	5.1	2.95	S
+2	5	2019	 Campobasso e Pescolanciano	19.4	1.95	10.5	NA	NA	51.0	0.1	3.6	S
+3	5	2019	 Campobasso e Pescolanciano	17.85	8.85	12.3	NA	NA	61.5	0.0	7.25	S
+4	5	2019	 Campobasso e Pescolanciano	10.35	7.35	8.7	NA	NA	47.0	5.7	2.75	ENE
+5	5	2019	 Campobasso e Pescolanciano	13.65	4.4	8.55	NA	NA	54.5	0.7	8.95	S
+6	5	2019	 Campobasso e Pescolanciano	7.9	2.45	4.65	NA	NA	46.5	4.3	7.15	NNW
+7	5	2019	 Campobasso e Pescolanciano	13.5	0.75	7.2	NA	NA	59.5	0.2	4.0	ENE
+8	5	2019	 Campobasso e Pescolanciano	17.65	2.9	10.25	NA	NA	50.5	0.0	4.65	S
+9	5	2019	 Campobasso e Pescolanciano	16.15	7.3	11.25	NA	NA	55.0	0.5	6.65	SSE
+10	5	2019	 Campobasso e Pescolanciano	19.75	5.45	12.4	NA	NA	50.5	0.1	2.7	S
+11	5	2019	 Campobasso e Pescolanciano	21.35	4.9	13.1	NA	NA	53.5	0.0	4.55	S
+12	5	2019	 Campobasso e Pescolanciano	14.45	4.5	9.5	NA	NA	60.0	4.5	3.6	S
+13	5	2019	 Campobasso e Pescolanciano	14.25	3.75	7.8	NA	NA	56.0	10.5	4.3	E
+14	5	2019	 Campobasso e Pescolanciano	8.85	4.6	6.2	NA	NA	60.5	9.2	11.45	NNW
+15	5	2019	 Campobasso e Pescolanciano	6.85	3.0	4.85	NA	NA	51.5	1.9	4.15	ENE
+16	5	2019	 Campobasso e Pescolanciano	12.9	3.85	6.95	NA	NA	54.0	0.7	4.95	ENE
+17	5	2019	 Campobasso e Pescolanciano	20.05	4.6	12.15	NA	NA	57.0	0.0	2.05	SE
+18	5	2019	 Campobasso e Pescolanciano	15.95	7.0	11.35	NA	NA	41.5	1.7	3.75	SE
+19	5	2019	 Campobasso e Pescolanciano	16.2	8.55	11.85	NA	NA	62.0	0.8	6.5	S
+20	5	2019	 Campobasso e Pescolanciano	16.4	7.85	10.75	NA	NA	69.0	1.7	6.7	S
+21	5	2019	 Campobasso e Pescolanciano	16.8	8.25	12.35	NA	NA	68.0	0.0	8.4	S
+22	5	2019	 Campobasso e Pescolanciano	19.7	8.65	13.75	NA	NA	59.5	0.0	6.7	SSW
+23	5	2019	 Campobasso e Pescolanciano	19.35	6.6	12.1	NA	NA	53.0	1.3	3.05	S
+24	5	2019	 Campobasso e Pescolanciano	21.45	5.4	13.3	NA	NA	52.0	3.5	2.95	S
+25	5	2019	 Campobasso e Pescolanciano	20.4	9.25	14.35	NA	NA	50.0	0.6	2.45	SE
+26	5	2019	 Campobasso e Pescolanciano	12.6	8.8	10.5	NA	NA	47.0	19.3	2.5	SE
+27	5	2019	 Campobasso e Pescolanciano	13.8	8.5	10.8	NA	NA	47.5	12.4	2.35	SE
+28	5	2019	 Campobasso e Pescolanciano	19.3	9.2	13.2	NA	NA	59.0	2.3	4.45	S
+29	5	2019	 Campobasso e Pescolanciano	17.7	10.1	13.5	NA	NA	67.5	0.0	7.55	SSE
+30	5	2019	 Campobasso e Pescolanciano	16.95	5.7	10.9	NA	NA	57.0	3.5	3.45	ENE
+31	5	2019	 Campobasso e Pescolanciano	14.65	6.5	10.2	NA	NA	55.0	0.2	5.6	NE
+1	6	2019	 Campobasso e Pescolanciano	18.0	5.55	11.1	NA	NA	50.0	2.5	7.35	NNW
+2	6	2019	 Campobasso e Pescolanciano	18.45	9.1	13.3	NA	NA	54.0	3.6	5.4	NE
+3	6	2019	 Campobasso e Pescolanciano	23.65	9.0	15.75	NA	NA	46.5	0.0	5.2	ENE
+4	6	2019	 Campobasso e Pescolanciano	24.9	10.45	17.4	NA	NA	45.5	0.0	3.25	S
+5	6	2019	 Campobasso e Pescolanciano	25.55	13.35	18.8	NA	NA	58.0	0.0	2.65	SW
+6	6	2019	 Campobasso e Pescolanciano	25.45	11.8	19.05	NA	NA	46.0	0.1	5.7	S
+7	6	2019	 Campobasso e Pescolanciano	29.75	12.85	21.95	NA	NA	43.0	0.0	4.05	S
+8	6	2019	 Campobasso e Pescolanciano	31.0	16.6	23.7	NA	NA	44.0	0.0	5.15	S
+9	6	2019	 Campobasso e Pescolanciano	32.55	15.1	23.45	NA	NA	37.5	0.0	2.75	SE
+10	6	2019	 Campobasso e Pescolanciano	32.1	13.95	22.9	NA	NA	38.5	0.0	2.8	SE
+11	6	2019	 Campobasso e Pescolanciano	31.15	16.1	23.3	NA	NA	34.5	0.0	4.05	S
+12	6	2019	 Campobasso e Pescolanciano	31.45	14.5	23.0	NA	NA	31.0	0.0	3.35	SE
+13	6	2019	 Campobasso e Pescolanciano	29.1	14.55	21.8	NA	NA	44.0	0.0	2.95	ESE
+14	6	2019	 Campobasso e Pescolanciano	31.9	13.3	22.95	NA	NA	35.0	0.0	2.2	SE
+15	6	2019	 Campobasso e Pescolanciano	32.4	18.1	24.4	NA	NA	40.5	0.0	3.75	S
+16	6	2019	 Campobasso e Pescolanciano	30.2	14.05	22.2	NA	NA	40.0	0.0	3.0	S
+17	6	2019	 Campobasso e Pescolanciano	28.95	12.45	19.55	NA	NA	39.5	0.4	3.7	NE
+18	6	2019	 Campobasso e Pescolanciano	27.75	11.25	19.2	NA	NA	44.5	0.5	3.1	NE
+19	6	2019	 Campobasso e Pescolanciano	29.25	13.0	20.35	NA	NA	50.0	2.0	2.55	SSE
+20	6	2019	 Campobasso e Pescolanciano	29.95	12.35	21.25	NA	NA	45.5	0.0	2.85	SSE
+21	6	2019	 Campobasso e Pescolanciano	31.7	13.75	22.7	NA	NA	41.5	0.0	2.9	SSE
+22	6	2019	 Campobasso e Pescolanciano	30.95	15.0	22.1	NA	NA	44.0	0.0	5.05	S
+23	6	2019	 Campobasso e Pescolanciano	29.5	13.95	21.0	NA	NA	54.0	0.0	3.75	NE
+24	6	2019	 Campobasso e Pescolanciano	25.9	13.65	19.85	NA	NA	52.0	0.0	6.85	NNW
+25	6	2019	 Campobasso e Pescolanciano	27.2	13.45	20.5	NA	NA	50.0	0.0	7.55	NNW
+26	6	2019	 Campobasso e Pescolanciano	27.6	14.0	21.15	NA	NA	47.5	0.0	7.5	NNW
+27	6	2019	 Campobasso e Pescolanciano	30.35	14.6	22.3	NA	NA	42.0	0.0	7.15	NNW
+28	6	2019	 Campobasso e Pescolanciano	32.35	13.8	22.75	NA	NA	36.5	0.0	4.95	ENE
+29	6	2019	 Campobasso e Pescolanciano	26.35	11.85	19.6	NA	NA	37.0	0.0	7.35	NNW
+30	6	2019	 Campobasso e Pescolanciano	28.6	10.75	20.15	NA	NA	36.0	0.0	4.4	NE
+1	7	2019	 Campobasso e Pescolanciano	33.4	12.15	22.8	NA	NA	32.0	0.0	2.2	SE
+2	7	2019	 Campobasso e Pescolanciano	32.95	14.9	23.55	NA	NA	36.0	0.0	2.85	NE
+3	7	2019	 Campobasso e Pescolanciano	32.3	15.5	23.55	NA	NA	36.5	0.0	2.55	ENE
+4	7	2019	 Campobasso e Pescolanciano	31.45	13.95	22.35	NA	NA	44.0	0.2	3.7	NE
+5	7	2019	 Campobasso e Pescolanciano	30.7	13.9	22.5	NA	NA	44.0	0.0	2.5	NE
+6	7	2019	 Campobasso e Pescolanciano	33.0	15.9	24.45	NA	NA	41.5	0.0	4.4	S
+7	7	2019	 Campobasso e Pescolanciano	31.8	17.25	24.5	NA	NA	42.0	0.0	7.95	S
+8	7	2019	 Campobasso e Pescolanciano	31.15	16.4	24.4	NA	NA	45.0	0.0	6.2	S
+9	7	2019	 Campobasso e Pescolanciano	29.6	18.0	23.55	NA	NA	44.0	2.5	7.45	S
+10	7	2019	 Campobasso e Pescolanciano	26.95	13.75	18.75	NA	NA	49.0	15.7	5.05	NE
+11	7	2019	 Campobasso e Pescolanciano	23.9	10.65	17.3	NA	NA	46.0	0.0	4.95	NE
+12	7	2019	 Campobasso e Pescolanciano	25.05	12.3	18.15	NA	NA	43.0	6.6	2.4	SSE
+13	7	2019	 Campobasso e Pescolanciano	26.25	12.75	17.75	NA	NA	49.5	19.8	5.7	S
+14	7	2019	 Campobasso e Pescolanciano	23.3	10.95	16.5	NA	NA	50.0	0.1	5.45	NE
+15	7	2019	 Campobasso e Pescolanciano	22.65	10.55	16.4	NA	NA	51.5	0.0	3.65	NE
+16	7	2019	 Campobasso e Pescolanciano	22.05	10.9	16.7	NA	NA	62.0	1.9	7.95	NNW
+17	7	2019	 Campobasso e Pescolanciano	25.05	8.95	17.1	NA	NA	41.0	0.0	4.85	ENE
+18	7	2019	 Campobasso e Pescolanciano	27.05	11.3	19.3	NA	NA	42.0	0.0	3.1	S
+19	7	2019	 Campobasso e Pescolanciano	28.0	12.75	19.35	NA	NA	39.0	3.5	3.35	S
+20	7	2019	 Campobasso e Pescolanciano	30.05	11.75	20.6	NA	NA	38.5	0.0	1.8	SSE
+21	7	2019	 Campobasso e Pescolanciano	31.1	14.7	22.8	NA	NA	38.0	0.0	2.8	SSE
+22	7	2019	 Campobasso e Pescolanciano	30.4	15.1	22.65	NA	NA	41.5	0.0	4.45	ENE
+23	7	2019	 Campobasso e Pescolanciano	28.6	14.8	21.65	NA	NA	40.0	0.0	7.4	NNW
+24	7	2019	 Campobasso e Pescolanciano	29.85	14.2	21.95	NA	NA	38.0	0.0	5.7	NE
+25	7	2019	 Campobasso e Pescolanciano	31.8	14.15	23.05	NA	NA	36.0	0.0	4.05	ENE
+26	7	2019	 Campobasso e Pescolanciano	33.9	15.6	24.35	NA	NA	37.0	0.0	3.25	S
+27	7	2019	 Campobasso e Pescolanciano	30.05	17.65	23.05	NA	NA	46.0	0.0	6.0	SSE
+28	7	2019	 Campobasso e Pescolanciano	23.05	14.8	18.9	NA	NA	44.0	28.0	9.55	S
+29	7	2019	 Campobasso e Pescolanciano	27.0	14.7	20.45	NA	NA	51.5	0.2	5.25	S
+30	7	2019	 Campobasso e Pescolanciano	26.5	13.7	20.5	NA	NA	50.0	0.0	3.85	NE
+31	7	2019	 Campobasso e Pescolanciano	31.85	14.9	22.7	NA	NA	45.0	0.0	2.85	S
+1	8	2019	 Campobasso e Pescolanciano	32.4	14.5	22.5	NA	NA	37.0	0.0	3.05	SSE
+2	8	2019	 Campobasso e Pescolanciano	31.25	14.95	22.45	NA	NA	42.5	0.9	4.65	S
+3	8	2019	 Campobasso e Pescolanciano	26.5	13.7	20.35	NA	NA	54.0	0.0	4.8	ENE
+4	8	2019	 Campobasso e Pescolanciano	27.2	12.5	19.65	NA	NA	45.5	0.0	3.9	ENE
+5	8	2019	 Campobasso e Pescolanciano	30.15	12.45	21.4	NA	NA	36.5	0.0	2.5	S
+6	8	2019	 Campobasso e Pescolanciano	32.0	14.15	22.85	NA	NA	37.5	0.0	3.0	SSE
+7	8	2019	 Campobasso e Pescolanciano	33.15	14.85	23.55	NA	NA	37.0	0.0	2.8	SSE
+8	8	2019	 Campobasso e Pescolanciano	31.2	16.8	23.45	NA	NA	47.5	0.0	2.9	SSE
+9	8	2019	 Campobasso e Pescolanciano	31.65	14.9	22.75	NA	NA	45.0	0.0	3.95	NE
+10	8	2019	 Campobasso e Pescolanciano	34.9	16.95	25.0	NA	NA	40.0	0.0	2.3	S
+11	8	2019	 Campobasso e Pescolanciano	35.3	18.05	26.05	NA	NA	35.0	0.0	2.3	E
+12	8	2019	 Campobasso e Pescolanciano	35.85	18.05	25.8	NA	NA	30.5	0.0	3.3	ENE
+13	8	2019	 Campobasso e Pescolanciano	35.65	17.2	25.95	NA	NA	34.0	0.0	2.8	ENE
+14	8	2019	 Campobasso e Pescolanciano	26.1	14.15	21.0	NA	NA	47.0	3.4	5.15	ENE
+15	8	2019	 Campobasso e Pescolanciano	25.65	11.45	17.85	NA	NA	46.0	0.0	5.9	NE
+16	8	2019	 Campobasso e Pescolanciano	26.75	11.5	18.85	NA	NA	46.0	0.1	3.7	ENE
+17	8	2019	 Campobasso e Pescolanciano	27.35	11.8	19.3	NA	NA	42.5	0.0	2.75	ENE
+18	8	2019	 Campobasso e Pescolanciano	31.35	12.9	21.45	NA	NA	34.0	0.0	2.35	ESE
+19	8	2019	 Campobasso e Pescolanciano	32.35	14.55	22.3	NA	NA	34.0	0.0	2.7	S
+20	8	2019	 Campobasso e Pescolanciano	34.05	14.35	22.9	NA	NA	28.0	0.0	2.5	E
+21	8	2019	 Campobasso e Pescolanciano	32.9	15.15	23.85	NA	NA	35.0	0.0	2.25	SSE
+22	8	2019	 Campobasso e Pescolanciano	32.6	14.25	22.35	NA	NA	33.5	11.4	3.65	NE
+23	8	2019	 Campobasso e Pescolanciano	27.75	14.4	19.0	NA	NA	43.5	5.9	3.95	ENE
+24	8	2019	 Campobasso e Pescolanciano	28.25	12.3	18.35	NA	NA	44.5	18.8	3.0	S
+25	8	2019	 Campobasso e Pescolanciano	28.45	12.0	18.7	NA	NA	46.5	5.7	3.05	SSE
+26	8	2019	 Campobasso e Pescolanciano	28.75	12.2	19.6	NA	NA	48.0	0.0	2.6	S
+27	8	2019	 Campobasso e Pescolanciano	29.75	13.65	20.3	NA	NA	45.5	0.0	2.2	E
+28	8	2019	 Campobasso e Pescolanciano	31.15	14.05	21.45	NA	NA	41.0	0.0	2.15	SE
+29	8	2019	 Campobasso e Pescolanciano	29.0	12.85	19.8	NA	NA	45.0	8.9	3.1	NE
+30	8	2019	 Campobasso e Pescolanciano	28.45	15.6	20.1	NA	NA	41.0	0.8	2.5	S
+31	8	2019	 Campobasso e Pescolanciano	28.5	15.35	20.25	NA	NA	45.5	0.6	2.95	S
+1	9	2019	 Campobasso e Pescolanciano	27.4	13.8	18.6	NA	NA	41.0	19.5	2.35	SSE
+2	9	2019	 Campobasso e Pescolanciano	24.85	14.95	18.4	NA	NA	40.5	0.5	1.65	S
+3	9	2019	 Campobasso e Pescolanciano	22.7	14.2	17.4	NA	NA	54.0	0.1	6.35	NE
+4	9	2019	 Campobasso e Pescolanciano	21.5	11.7	16.5	NA	NA	50.5	0.0	6.95	NE
+5	9	2019	 Campobasso e Pescolanciano	27.45	9.6	17.6	NA	NA	45.5	0.0	2.0	SE
+6	9	2019	 Campobasso e Pescolanciano	25.9	12.35	18.6	NA	NA	45.0	0.0	3.7	SSE
+7	9	2019	 Campobasso e Pescolanciano	25.85	10.2	17.2	NA	NA	41.5	0.0	2.5	SSE
+8	9	2019	 Campobasso e Pescolanciano	23.45	9.05	16.5	NA	NA	54.0	0.0	5.45	SSE
+9	9	2019	 Campobasso e Pescolanciano	23.25	12.05	17.05	NA	NA	55.0	0.0	6.35	S
+10	9	2019	 Campobasso e Pescolanciano	23.75	7.7	14.85	NA	NA	44.0	0.0	2.45	ESE
+11	9	2019	 Campobasso e Pescolanciano	23.85	8.0	15.3	NA	NA	43.5	0.0	3.8	NE
+12	9	2019	 Campobasso e Pescolanciano	24.5	9.05	15.95	NA	NA	45.0	0.0	6.35	NE
+13	9	2019	 Campobasso e Pescolanciano	25.0	9.9	16.6	NA	NA	45.5	0.0	6.55	NE
+14	9	2019	 Campobasso e Pescolanciano	25.4	9.4	16.4	NA	NA	42.5	0.1	5.15	NE
+15	9	2019	 Campobasso e Pescolanciano	26.7	8.9	16.65	NA	NA	40.5	0.0	3.55	NE
+16	9	2019	 Campobasso e Pescolanciano	28.0	10.3	18.55	NA	NA	44.5	0.0	1.7	SE
+17	9	2019	 Campobasso e Pescolanciano	28.25	11.75	19.0	NA	NA	42.0	0.0	3.15	S
+18	9	2019	 Campobasso e Pescolanciano	28.15	11.65	18.8	NA	NA	43.5	3.3	2.45	S
+19	9	2019	 Campobasso e Pescolanciano	19.95	12.05	15.55	NA	NA	46.5	5.3	3.55	NE
+20	9	2019	 Campobasso e Pescolanciano	19.7	8.25	13.75	NA	NA	51.0	0.0	5.95	NE
+21	9	2019	 Campobasso e Pescolanciano	22.05	4.7	12.3	NA	NA	43.0	0.0	2.75	SE
+22	9	2019	 Campobasso e Pescolanciano	21.2	8.3	14.4	NA	NA	37.0	1.6	2.45	SE
+23	9	2019	 Campobasso e Pescolanciano	24.0	12.9	18.6	NA	NA	46.0	8.1	6.1	S
+24	9	2019	 Campobasso e Pescolanciano	22.85	11.4	15.7	NA	NA	50.5	0.0	2.9	NE
+25	9	2019	 Campobasso e Pescolanciano	23.8	8.5	16.45	NA	NA	49.0	0.0	4.2	S
+26	9	2019	 Campobasso e Pescolanciano	23.95	11.65	17.45	NA	NA	45.0	0.0	4.6	S
+27	9	2019	 Campobasso e Pescolanciano	26.9	8.8	16.9	NA	NA	42.5	0.1	2.6	S
+28	9	2019	 Campobasso e Pescolanciano	25.95	12.2	18.0	NA	NA	40.0	0.0	3.65	SSE
+29	9	2019	 Campobasso e Pescolanciano	25.75	13.0	19.75	NA	NA	46.0	0.0	3.9	S
+30	9	2019	 Campobasso e Pescolanciano	25.5	12.1	18.6	NA	NA	42.5	0.0	5.35	S
+1	10	2019	 Campobasso e Pescolanciano	25.45	10.1	17.15	NA	NA	43.5	0.0	2.7	SSE
+2	10	2019	 Campobasso e Pescolanciano	23.4	10.7	16.3	NA	NA	44.0	7.2	7.85	S
+3	10	2019	 Campobasso e Pescolanciano	17.8	8.3	12.05	NA	NA	43.0	10.4	6.35	NE
+4	10	2019	 Campobasso e Pescolanciano	17.3	6.3	10.8	NA	NA	49.5	0.0	6.95	NE
+5	10	2019	 Campobasso e Pescolanciano	20.4	8.65	13.5	NA	NA	49.5	0.0	3.15	S
+6	10	2019	 Campobasso e Pescolanciano	19.45	7.5	12.95	NA	NA	48.5	1.4	2.5	E
+7	10	2019	 Campobasso e Pescolanciano	12.6	8.4	10.5	NA	NA	49.5	5.6	6.0	ENE
+8	10	2019	 Campobasso e Pescolanciano	18.65	6.15	11.85	NA	NA	57.5	0.0	5.65	NE
+9	10	2019	 Campobasso e Pescolanciano	22.55	4.8	13.05	NA	NA	42.5	0.1	3.85	S
+10	10	2019	 Campobasso e Pescolanciano	23.2	9.8	15.7	NA	NA	41.0	0.0	4.95	S
+11	10	2019	 Campobasso e Pescolanciano	21.45	6.1	12.65	NA	NA	47.0	0.0	2.65	NE
+12	10	2019	 Campobasso e Pescolanciano	23.15	6.8	13.6	NA	NA	42.0	0.0	1.5	SE
+13	10	2019	 Campobasso e Pescolanciano	23.75	5.6	13.05	NA	NA	40.5	0.0	1.6	SSE
+14	10	2019	 Campobasso e Pescolanciano	24.2	5.85	13.5	NA	NA	51.5	0.2	1.15	ESE
+15	10	2019	 Campobasso e Pescolanciano	22.35	5.45	13.65	NA	NA	47.5	2.3	3.0	SSE
+16	10	2019	 Campobasso e Pescolanciano	20.75	6.85	14.0	NA	NA	44.5	0.7	3.45	SSE
+17	10	2019	 Campobasso e Pescolanciano	21.5	5.15	11.7	NA	NA	41.0	0.0	1.8	SE
+18	10	2019	 Campobasso e Pescolanciano	21.95	5.5	12.3	NA	NA	42.5	0.0	1.4	SSE
+19	10	2019	 Campobasso e Pescolanciano	21.5	5.4	12.15	NA	NA	42.0	0.1	1.65	SE
+20	10	2019	 Campobasso e Pescolanciano	23.45	5.45	13.2	NA	NA	40.5	0.0	3.2	W
+21	10	2019	 Campobasso e Pescolanciano	26.2	8.55	15.3	NA	NA	38.0	0.1	1.55	SSE
+22	10	2019	 Campobasso e Pescolanciano	24.75	8.2	14.25	NA	NA	38.5	0.0	1.4	E
+23	10	2019	 Campobasso e Pescolanciano	25.1	7.0	13.75	NA	NA	34.5	0.0	1.8	SE
+24	10	2019	 Campobasso e Pescolanciano	23.85	6.2	13.25	NA	NA	37.5	0.0	2.35	SSE
+25	10	2019	 Campobasso e Pescolanciano	18.9	8.45	13.15	NA	NA	50.5	0.2	3.2	ENE
+26	10	2019	 Campobasso e Pescolanciano	21.1	6.25	11.55	NA	NA	46.0	0.2	2.95	NE
+27	10	2019	 Campobasso e Pescolanciano	22.85	4.5	11.4	NA	NA	33.5	0.0	1.6	ESE
+28	10	2019	 Campobasso e Pescolanciano	7.75	7.05	7.4	NA	NA	30.5	0.0	1.4	W
+29	10	2019	 Campobasso e Pescolanciano	21.2	5.45	11.95	NA	NA	36.5	0.0	1.7	NE
+30	10	2019	 Campobasso e Pescolanciano	20.35	6.75	12.25	NA	NA	43.5	0.0	2.25	SSE
+31	10	2019	 Campobasso e Pescolanciano	17.1	6.85	11.4	NA	NA	46.0	7.0	1.75	E
+1	11	2019	 Campobasso e Pescolanciano	10.75	9.35	10.05	NA	NA	48.0	2.3	2.2	ENE
+2	11	2019	 Campobasso e Pescolanciano	17.35	8.35	12.7	NA	NA	50.0	1.1	4.35	SSE
+3	11	2019	 Campobasso e Pescolanciano	15.85	10.05	13.15	NA	NA	52.5	51.8	7.95	SE
+4	11	2019	 Campobasso e Pescolanciano	15.9	10.4	12.75	NA	NA	60.5	2.2	12.85	S
+5	11	2019	 Campobasso e Pescolanciano	17.05	12.4	14.6	NA	NA	48.0	23.5	13.2	SSE
+6	11	2019	 Campobasso e Pescolanciano	13.7	5.85	11.0	NA	NA	63.5	0.0	7.6	S
+7	11	2019	 Campobasso e Pescolanciano	15.75	3.45	7.85	NA	NA	45.0	0.1	2.75	S
+8	11	2019	 Campobasso e Pescolanciano	13.25	2.25	8.75	NA	NA	46.5	13.0	5.7	SE
+9	11	2019	 Campobasso e Pescolanciano	11.05	4.6	8.25	NA	NA	51.5	7.7	3.75	SE
+10	11	2019	 Campobasso e Pescolanciano	12.05	2.45	6.75	NA	NA	48.5	0.2	1.75	SSE
+11	11	2019	 Campobasso e Pescolanciano	15.55	5.75	8.8	NA	NA	46.0	0.7	1.8	ESE
+12	11	2019	 Campobasso e Pescolanciano	13.65	6.75	8.95	NA	NA	44.5	11.1	3.8	SE
+13	11	2019	 Campobasso e Pescolanciano	12.75	4.5	8.45	NA	NA	51.5	2.4	5.6	S
+14	11	2019	 Campobasso e Pescolanciano	14.1	4.4	8.2	NA	NA	50.0	0.2	1.65	SE
+15	11	2019	 Campobasso e Pescolanciano	15.15	6.5	11.95	NA	NA	60.5	6.4	6.9	SE
+16	11	2019	 Campobasso e Pescolanciano	12.75	5.2	9.45	NA	NA	47.0	35.5	4.0	SSE
+17	11	2019	 Campobasso e Pescolanciano	14.45	4.1	9.15	NA	NA	51.5	19.1	5.55	SE
+18	11	2019	 Campobasso e Pescolanciano	13.05	5.05	8.65	NA	NA	60.0	0.1	4.9	S
+19	11	2019	 Campobasso e Pescolanciano	10.1	4.25	7.05	NA	NA	36.5	1.1	2.7	SE
+20	11	2019	 Campobasso e Pescolanciano	12.4	3.95	7.45	NA	NA	41.5	0.1	4.3	S
+21	11	2019	 Campobasso e Pescolanciano	11.55	4.15	7.2	NA	NA	45.0	0.1	2.8	S
+22	11	2019	 Campobasso e Pescolanciano	12.9	2.85	6.85	NA	NA	43.5	0.1	1.75	SE
+23	11	2019	 Campobasso e Pescolanciano	15.4	4.3	9.9	NA	NA	53.5	0.1	3.0	SE
+24	11	2019	 Campobasso e Pescolanciano	11.6	7.65	8.85	NA	NA	46.0	20.0	2.8	SE
+25	11	2019	 Campobasso e Pescolanciano	9.2	5.25	7.65	NA	NA	47.5	1.4	4.4	ENE
+26	11	2019	 Campobasso e Pescolanciano	16.1	2.25	7.35	NA	NA	47.0	0.1	2.75	NNE
+27	11	2019	 Campobasso e Pescolanciano	13.4	5.15	9.9	NA	NA	49.5	2.1	5.6	S
+28	11	2019	 Campobasso e Pescolanciano	13.05	7.9	10.75	NA	NA	66.5	0.0	9.0	S
+29	11	2019	 Campobasso e Pescolanciano	12.25	8.6	10.55	NA	NA	63.5	0.0	9.85	SSW
+30	11	2019	 Campobasso e Pescolanciano	14.6	2.55	8.15	NA	NA	49.5	0.0	2.35	S
+1	12	2019	 Campobasso e Pescolanciano	13.55	0.45	7.2	NA	NA	52.5	0.1	1.9	WSW
+2	12	2019	 Campobasso e Pescolanciano	13.55	8.95	10.7	NA	NA	57.5	1.3	3.3	S
+3	12	2019	 Campobasso e Pescolanciano	10.15	1.7	6.15	NA	NA	50.0	14.8	5.2	NE
+4	12	2019	 Campobasso e Pescolanciano	5.75	-0.8	2.1	NA	NA	54.0	0.1	3.3	ENE
+5	12	2019	 Campobasso e Pescolanciano	7.05	-0.35	3.65	NA	NA	52.0	0.2	1.45	E
+6	12	2019	 Campobasso e Pescolanciano	11.95	3.6	7.2	NA	NA	55.0	0.4	1.6	S
+7	12	2019	 Campobasso e Pescolanciano	13.7	4.1	8.3	NA	NA	49.5	0.1	6.8	S
+8	12	2019	 Campobasso e Pescolanciano	14.15	1.75	6.75	NA	NA	47.5	0.1	3.3	W
+9	12	2019	 Campobasso e Pescolanciano	11.4	4.8	8.15	NA	NA	52.5	0.3	7.05	S
+10	12	2019	 Campobasso e Pescolanciano	7.0	1.1	4.15	NA	NA	49.5	8.1	9.2	NNW
+11	12	2019	 Campobasso e Pescolanciano	7.8	-1.8	2.95	NA	NA	64.5	0.1	7.95	ENE
+12	12	2019	 Campobasso e Pescolanciano	8.0	-2.55	2.0	NA	NA	47.5	0.1	2.9	S
+13	12	2019	 Campobasso e Pescolanciano	8.5	-0.5	3.85	NA	NA	40.0	23.2	8.45	SSW
+14	12	2019	 Campobasso e Pescolanciano	13.0	1.15	6.05	NA	NA	48.5	0.1	7.4	NW
+15	12	2019	 Campobasso e Pescolanciano	13.85	1.35	8.4	NA	NA	45.5	0.1	4.8	W
+16	12	2019	 Campobasso e Pescolanciano	16.25	7.2	11.0	NA	NA	55.0	0.0	2.55	W
+17	12	2019	 Campobasso e Pescolanciano	17.5	5.8	10.85	NA	NA	53.0	0.0	2.3	SE
+18	12	2019	 Campobasso e Pescolanciano	13.3	4.9	9.05	NA	NA	47.0	0.0	1.35	SSE
+19	12	2019	 Campobasso e Pescolanciano	8.0	3.4	5.75	NA	NA	46.0	27.2	3.3	S
+20	12	2019	 Campobasso e Pescolanciano	11.5	2.3	7.95	NA	NA	58.0	1.0	7.2	S
+21	12	2019	 Campobasso e Pescolanciano	12.9	10.2	11.5	NA	NA	50.0	33.8	15.85	S
+22	12	2019	 Campobasso e Pescolanciano	12.85	5.7	9.6	NA	NA	61.5	13.7	16.0	S
+23	12	2019	 Campobasso e Pescolanciano	12.15	1.6	6.2	NA	NA	50.0	0.2	7.15	W
+24	12	2019	 Campobasso e Pescolanciano	12.85	0.25	5.1	NA	NA	34.0	0.1	5.05	SSW
+25	12	2019	 Campobasso e Pescolanciano	14.05	0.65	5.5	NA	NA	37.5	0.0	2.65	SSW
+26	12	2019	 Campobasso e Pescolanciano	9.45	-1.2	2.65	NA	NA	41.0	0.2	4.1	N
+27	12	2019	 Campobasso e Pescolanciano	10.3	-1.6	2.7	NA	NA	39.5	0.1	1.3	SE
+28	12	2019	 Campobasso e Pescolanciano	2.4	-3.0	0.05	NA	NA	40.0	1.2	10.4	E
+29	12	2019	 Campobasso e Pescolanciano	2.15	-1.25	-0.05	NA	NA	76.5	0.0	11.55	NNW
+30	12	2019	 Campobasso e Pescolanciano	2.8	-2.4	0.25	NA	NA	79.0	0.5	10.3	NNW
+31	12	2019	 Campobasso e Pescolanciano	7.5	-4.8	0.4	NA	NA	52.5	3.7	4.05	SSW
+1	1	2020	 Campobasso e Pescolanciano	11.25	-1.95	2.7	NA	NA	35.0	0.3	4.8	NE
+2	1	2020	 Campobasso e Pescolanciano	9.45	-2.9	1.7	NA	NA	45.5	0.1	5.0	ENE
+3	1	2020	 Campobasso e Pescolanciano	14.55	-2.3	3.7	NA	NA	28.0	0.0	1.3	S
+4	1	2020	 Campobasso e Pescolanciano	11.45	-0.5	3.65	NA	NA	42.5	0.0	2.2	S
+5	1	2020	 Campobasso e Pescolanciano	8.3	-1.7	3.2	NA	NA	51.5	0.3	11.35	N
+6	1	2020	 Campobasso e Pescolanciano	4.5	-1.9	0.9	NA	NA	61.0	0.0	10.35	NNW
+7	1	2020	 Campobasso e Pescolanciano	10.0	-4.7	0.85	NA	NA	58.5	0.0	3.45	SSW
+8	1	2020	 Campobasso e Pescolanciano	9.25	-2.55	1.45	NA	NA	51.5	0.0	4.65	ENE
+9	1	2020	 Campobasso e Pescolanciano	13.1	-3.95	2.2	NA	NA	43.0	0.0	1.35	SSE
+10	1	2020	 Campobasso e Pescolanciano	12.4	-2.8	2.45	NA	NA	39.5	0.1	2.05	S
+11	1	2020	 Campobasso e Pescolanciano	10.25	-3.45	1.9	NA	NA	49.0	0.0	4.45	ENE
+12	1	2020	 Campobasso e Pescolanciano	9.25	-2.1	2.7	NA	NA	54.5	0.0	4.85	ENE
+13	1	2020	 Campobasso e Pescolanciano	10.7	-3.1	1.95	NA	NA	51.0	0.1	1.5	SE
+14	1	2020	 Campobasso e Pescolanciano	11.8	-2.1	2.8	NA	NA	44.0	0.0	1.7	S
+15	1	2020	 Campobasso e Pescolanciano	11.9	-3.5	2.15	NA	NA	53.5	0.1	1.35	NE
+16	1	2020	 Campobasso e Pescolanciano	10.55	-3.6	1.75	NA	NA	58.0	0.2	3.35	SSW
+17	1	2020	 Campobasso e Pescolanciano	11.45	-3.6	1.85	NA	NA	52.5	0.0	1.8	S
+18	1	2020	 Campobasso e Pescolanciano	9.35	-2.0	2.85	NA	NA	44.0	0.0	4.85	W
+19	1	2020	 Campobasso e Pescolanciano	5.35	-0.05	3.1	NA	NA	57.5	0.2	4.6	NE
+20	1	2020	 Campobasso e Pescolanciano	5.25	0.15	2.35	NA	NA	66.0	0.0	6.6	NE
+21	1	2020	 Campobasso e Pescolanciano	5.9	-1.2	2.75	NA	NA	67.5	0.0	2.55	E
+22	1	2020	 Campobasso e Pescolanciano	12.3	-3.3	2.55	NA	NA	50.5	0.0	1.55	E
+23	1	2020	 Campobasso e Pescolanciano	11.8	-2.3	3.3	NA	NA	47.0	0.0	2.95	SSW
+24	1	2020	 Campobasso e Pescolanciano	12.45	-3.65	3.8	NA	NA	52.5	0.2	1.4	W
+25	1	2020	 Campobasso e Pescolanciano	10.5	2.95	6.45	NA	NA	34.5	3.4	2.7	S
+26	1	2020	 Campobasso e Pescolanciano	10.25	1.35	5.1	NA	NA	44.0	0.2	2.35	ENE
+27	1	2020	 Campobasso e Pescolanciano	12.95	0.15	5.9	NA	NA	48.0	0.0	3.8	SSE
+28	1	2020	 Campobasso e Pescolanciano	10.15	6.2	8.25	NA	NA	51.5	1.2	12.05	S
+29	1	2020	 Campobasso e Pescolanciano	11.7	2.1	7.85	NA	NA	57.5	0.1	9.3	S
+30	1	2020	 Campobasso e Pescolanciano	14.65	-0.75	5.5	NA	NA	32.0	0.0	3.1	S
+31	1	2020	 Campobasso e Pescolanciano	13.95	3.8	7.4	NA	NA	38.5	0.1	3.85	W
+1	2	2020	 Campobasso e Pescolanciano	13.95	5.35	8.95	NA	NA	48.5	0.0	4.85	W
+2	2	2020	 Campobasso e Pescolanciano	14.75	4.5	9.35	NA	NA	45.5	0.1	5.1	W
+3	2	2020	 Campobasso e Pescolanciano	15.9	7.0	10.5	NA	NA	47.0	0.0	3.95	W
+4	2	2020	 Campobasso e Pescolanciano	15.8	0.3	8.45	NA	NA	53.5	1.2	11.1	S
+5	2	2020	 Campobasso e Pescolanciano	2.55	-0.3	1.1	NA	NA	68.0	0.8	15.45	NNW
+6	2	2020	 Campobasso e Pescolanciano	4.3	-3.95	0.5	NA	NA	62.5	3.6	13.45	NNW
+7	2	2020	 Campobasso e Pescolanciano	11.25	-5.45	1.6	NA	NA	34.0	2.3	3.6	NE
+8	2	2020	 Campobasso e Pescolanciano	12.65	-3.6	3.05	NA	NA	29.5	0.0	1.4	SE
+9	2	2020	 Campobasso e Pescolanciano	13.15	-1.8	5.15	NA	NA	35.5	0.0	4.85	W
+10	2	2020	 Campobasso e Pescolanciano	10.45	5.55	8.25	NA	NA	46.0	0.5	15.4	S
+11	2	2020	 Campobasso e Pescolanciano	16.5	9.35	11.55	NA	NA	54.5	0.3	13.45	S
+12	2	2020	 Campobasso e Pescolanciano	16.65	1.25	8.95	NA	NA	39.5	0.0	2.25	SSW
+13	2	2020	 Campobasso e Pescolanciano	13.0	-0.8	5.95	NA	NA	45.5	0.1	5.75	S
+14	2	2020	 Campobasso e Pescolanciano	11.85	2.5	7.05	NA	NA	61.0	7.9	7.45	NE
+15	2	2020	 Campobasso e Pescolanciano	12.2	-0.3	5.05	NA	NA	47.5	0.0	5.5	NNW
+16	2	2020	 Campobasso e Pescolanciano	15.1	-1.75	4.95	NA	NA	34.5	0.0	1.95	SE
+17	2	2020	 Campobasso e Pescolanciano	16.2	-0.15	7.0	NA	NA	40.5	0.1	1.9	W
+18	2	2020	 Campobasso e Pescolanciano	15.35	1.45	7.35	NA	NA	42.0	0.0	2.25	SE
+19	2	2020	 Campobasso e Pescolanciano	13.3	0.1	5.55	NA	NA	45.5	1.5	3.55	S
+20	2	2020	 Campobasso e Pescolanciano	9.85	-1.85	3.25	NA	NA	50.5	0.4	8.75	NNW
+21	2	2020	 Campobasso e Pescolanciano	14.45	-2.9	4.2	NA	NA	35.5	0.0	3.3	ENE
+22	2	2020	 Campobasso e Pescolanciano	11.55	-2.5	3.45	NA	NA	43.0	0.0	4.65	E
+23	2	2020	 Campobasso e Pescolanciano	16.85	-0.15	8.2	NA	NA	37.0	0.0	4.4	W
+24	2	2020	 Campobasso e Pescolanciano	18.2	4.75	10.35	NA	NA	41.0	0.1	2.65	SW
+25	2	2020	 Campobasso e Pescolanciano	15.5	6.45	9.8	NA	NA	49.0	0.0	7.7	S
+26	2	2020	 Campobasso e Pescolanciano	12.25	1.5	8.15	NA	NA	57.0	1.8	14.45	S
+27	2	2020	 Campobasso e Pescolanciano	10.7	-0.15	5.05	NA	NA	45.5	0.8	10.05	S
+28	2	2020	 Campobasso e Pescolanciano	11.85	-1.0	6.5	NA	NA	46.0	0.2	9.95	ENE
+29	2	2020	 Campobasso e Pescolanciano	13.4	-3.4	5.1	NA	NA	43.0	0.0	4.55	S
+1	3	2020	 Campobasso e Pescolanciano	12.65	5.55	9.3	NA	NA	51.0	4.6	8.35	S
+2	3	2020	 Campobasso e Pescolanciano	13.5	7.1	9.6	NA	NA	51.5	12.3	13.95	SSE
+3	3	2020	 Campobasso e Pescolanciano	10.1	2.25	6.15	NA	NA	46.5	4.7	11.95	S
+4	3	2020	 Campobasso e Pescolanciano	10.8	-1.05	4.3	NA	NA	43.5	5.2	3.85	ENE
+5	3	2020	 Campobasso e Pescolanciano	13.75	-1.5	5.55	NA	NA	44.5	0.1	3.2	SSE
+6	3	2020	 Campobasso e Pescolanciano	13.6	5.6	8.5	NA	NA	47.5	8.9	10.95	S
+7	3	2020	 Campobasso e Pescolanciano	11.35	0.85	5.1	NA	NA	46.0	7.7	4.75	ENE
+8	3	2020	 Campobasso e Pescolanciano	9.75	-0.75	4.2	NA	NA	49.0	1.0	6.7	NNW
+9	3	2020	 Campobasso e Pescolanciano	12.2	-3.1	4.2	NA	NA	45.0	0.0	3.35	ENE
+10	3	2020	 Campobasso e Pescolanciano	11.35	-0.05	5.15	NA	NA	52.5	0.0	5.1	NNW
+11	3	2020	 Campobasso e Pescolanciano	19.6	0.35	8.55	NA	NA	34.0	0.0	2.4	S
+12	3	2020	 Campobasso e Pescolanciano	19.9	3.6	11.45	NA	NA	39.5	0.0	4.75	W
+13	3	2020	 Campobasso e Pescolanciano	19.55	3.55	10.85	NA	NA	42.0	0.0	2.25	SW
+14	3	2020	 Campobasso e Pescolanciano	18.4	3.8	10.6	NA	NA	52.0	0.0	3.1	ENE
+15	3	2020	 Campobasso e Pescolanciano	10.85	-0.25	6.35	NA	NA	60.5	0.0	8.75	NNW
+16	3	2020	 Campobasso e Pescolanciano	16.9	-1.05	7.3	NA	NA	45.0	0.0	4.65	WSW
+17	3	2020	 Campobasso e Pescolanciano	18.75	-0.55	7.75	NA	NA	48.0	0.0	2.95	S
+18	3	2020	 Campobasso e Pescolanciano	18.05	-0.5	7.45	NA	NA	45.5	0.0	5.15	S
+19	3	2020	 Campobasso e Pescolanciano	16.05	-1.9	5.75	NA	NA	55.5	0.2	4.2	ENE
+20	3	2020	 Campobasso e Pescolanciano	13.1	-0.65	5.6	NA	NA	55.0	0.2	8.95	NNW
+21	3	2020	 Campobasso e Pescolanciano	14.5	-0.85	6.35	NA	NA	46.5	0.0	8.1	NE
+22	3	2020	 Campobasso e Pescolanciano	13.4	-0.35	6.6	NA	NA	45.5	0.0	6.2	E
+23	3	2020	 Campobasso e Pescolanciano	11.85	0.45	6.0	NA	NA	52.5	0.0	6.4	NE
+24	3	2020	 Campobasso e Pescolanciano	12.0	-0.45	5.75	NA	NA	43.5	0.8	3.65	S
+25	3	2020	 Campobasso e Pescolanciano	10.5	-0.9	5.2	NA	NA	29.0	0.3	7.85	W
+26	3	2020	 Campobasso e Pescolanciano	7.6	0.85	3.55	NA	NA	41.0	46.6	9.25	NNW
+27	3	2020	 Campobasso e Pescolanciano	7.15	2.75	4.5	NA	NA	47.0	6.9	8.3	NNW
+28	3	2020	 Campobasso e Pescolanciano	8.85	2.3	4.55	NA	NA	31.5	3.9	10.3	NNW
+29	3	2020	 Campobasso e Pescolanciano	12.85	-0.15	6.1	NA	NA	36.5	3.3	7.65	NNW
+30	3	2020	 Campobasso e Pescolanciano	15.2	0.4	6.5	NA	NA	29.5	3.2	5.05	NE
+31	3	2020	 Campobasso e Pescolanciano	11.3	1.9	6.75	NA	NA	33.0	3.4	7.5	SW
+1	4	2020	 Campobasso e Carovilli	3.6	-2.25	0.2	NA	NA	67.5	1.6	14.2	N
+2	4	2020	 Campobasso e Carovilli	10.5	-3.5	2.65	NA	NA	56.5	0.0	3.4	NW
+3	4	2020	 Campobasso e Carovilli	9.7	0.1	4.2	NA	NA	68.5	0.0	5.35	NE
+4	4	2020	 Campobasso e Carovilli	11.25	1.3	6.75	NA	NA	54.5	0.0	14.6	N
+5	4	2020	 Campobasso e Carovilli	11.8	5.8	8.4	NA	NA	52.5	0.0	15.45	N
+6	4	2020	 Campobasso e Carovilli	13.75	5.4	9.4	NA	NA	52.5	0.0	6.05	NE
+7	4	2020	 Campobasso e Carovilli	15.65	4.9	9.95	NA	NA	45.0	0.0	6.8	NNE
+8	4	2020	 Campobasso e Carovilli	15.45	3.95	9.75	NA	NA	39.5	0.0	5.9	NNE
+9	4	2020	 Campobasso e Carovilli	17.5	3.75	10.4	NA	NA	28.5	0.0	4.3	NW
+10	4	2020	 Campobasso e Carovilli	19.25	5.75	12.35	NA	NA	31.5	0.0	4.4	NNE
+11	4	2020	 Campobasso e Carovilli	20.15	7.85	13.8	NA	NA	34.5	0.0	6.25	NNE
+12	4	2020	 Campobasso e Carovilli	21.7	9.0	14.9	NA	NA	37.5	0.0	3.4	WSW
+13	4	2020	 Campobasso e Carovilli	18.75	7.85	13.45	NA	NA	45.0	0.0	5.65	WSW
+14	4	2020	 Campobasso e Carovilli	12.2	3.95	8.7	NA	NA	72.5	10.1	8.6	N
+15	4	2020	 Campobasso e Carovilli	9.5	1.0	4.9	NA	NA	70.5	0.0	12.05	N
+16	4	2020	 Campobasso e Carovilli	18.05	1.8	9.7	NA	NA	50.5	0.0	3.2	SSW
+17	4	2020	 Campobasso e Carovilli	20.9	6.15	13.35	NA	NA	48.5	0.0	3.2	SSW
+18	4	2020	 Campobasso e Carovilli	23.3	9.45	15.8	NA	NA	60.5	0.0	3.1	WSW
+19	4	2020	 Campobasso e Carovilli	23.0	12.75	16.9	NA	NA	57.0	0.0	4.1	WSW
+20	4	2020	 Campobasso e Carovilli	15.05	10.1	12.05	NA	NA	82.0	15.2	2.75	ENE
+21	4	2020	 Campobasso e Carovilli	13.85	9.05	10.6	NA	NA	91.5	3.9	7.85	N
+22	4	2020	 Campobasso e Carovilli	10.35	7.7	9.2	NA	NA	93.5	12.1	10.45	NNE
+23	4	2020	 Campobasso e Carovilli	11.0	5.8	8.35	NA	NA	89.5	1.2	6.0	NE
+24	4	2020	 Campobasso e Carovilli	18.55	5.05	11.65	NA	NA	62.5	0.0	3.0	NW
+25	4	2020	 Campobasso e Carovilli	18.85	9.0	12.95	NA	NA	70.5	0.0	6.8	WSW
+26	4	2020	 Campobasso e Carovilli	19.15	8.8	13.3	NA	NA	71.0	0.2	3.2	WSW
+27	4	2020	 Campobasso e Carovilli	20.45	7.55	13.6	NA	NA	64.0	0.0	4.35	WSW
+28	4	2020	 Campobasso e Carovilli	16.45	8.35	12.25	NA	NA	75.0	3.0	6.95	SW
+29	4	2020	 Campobasso e Carovilli	16.65	9.4	12.85	NA	NA	72.5	0.1	11.5	WSW
+30	4	2020	 Campobasso e Carovilli	19.45	8.05	12.8	NA	NA	67.0	0.0	6.8	WSW
+20	7	2020	Campobasso	27.5	15.6	21.6	26.0	67.0	46.5	0.0	25.6	NA
+21	7	2020	Campobasso	30.0	18.6	24.3	21.0	56.0	38.5	0.0	25.6	NA
+22	7	2020	Campobasso	32.1	20.4	26.3	14.0	51.0	32.5	0.0	16.9	NA
+23	7	2020	Campobasso	31.3	21.8	26.6	27.0	69.0	48.0	0.0	34.2	NA
+24	7	2020	Campobasso	30.4	19.8	25.1	25.0	69.0	47.0	0.0	34.2	NA
+25	7	2020	Campobasso	25.3	17.9	21.6	47.0	70.0	58.5	0.2	23.8	NA
+26	7	2020	Campobasso	29.1	17.0	23.1	24.0	69.0	46.5	0.0	22.3	NA
+27	7	2020	Campobasso	30.9	19.9	25.4	24.0	57.0	40.5	0.0	29.2	NA
+28	7	2020	Campobasso	32.7	21.2	27.0	36.0	61.0	48.5	0.0	22.5	NA
+29	7	2020	Campobasso	34.8	22.2	28.5	25.0	51.0	38.0	0.0	16.9	NA
+30	7	2020	Campobasso	34.1	24.1	29.1	31.0	55.0	43.0	0.8	22.3	NA
+31	7	2020	Campobasso	36.2	24.1	30.2	16.0	55.0	35.5	2.8	25.6	NA
+1	8	2020	Campobasso	32.3	23.2	27.8	28.0	54.0	41.0	0.0	29.2	NA
+2	8	2020	Campobasso	33.6	21.7	27.7	15.0	57.0	36.0	9.4	51.1	NA
+3	8	2020	Campobasso	32.5	20.9	26.7	31.8	64.8	48.3	0.0	35.1	NA
+4	8	2020	Campobasso	26.2	15.8	21.0	38.8	67.8	53.3	0.0	46.0	NA
+5	8	2020	Campobasso	26.2	15.8	21.0	38.8	67.8	53.3	1.2	46.0	NA
+6	8	2020	Campobasso	26.2	15.8	21.0	38.8	67.8	53.3	35.9	46.0	NA
+7	8	2020	Campobasso	24.6	17.5	21.0	51.3	80.5	65.9	0.0	35.1	NA
+8	8	2020	Campobasso	24.8	18.1	21.5	50.5	76.3	63.4	0.0	32.2	NA
+9	8	2020	Campobasso	28.1	18.1	23.1	41.8	73.8	57.8	0.0	34.7	NA
+10	8	2020	Campobasso	30.6	18.6	24.6	34.8	70.8	52.8	0.0	33.5	NA
+11	8	2020	Campobasso	31.3	19.3	25.3	31.8	70.3	51.0	0.0	22.0	NA
+12	8	2020	Campobasso	32.3	19.5	25.9	30.5	71.0	50.8	3.4	28.7	NA
+13	8	2020	Campobasso	32.8	20.3	26.6	35.5	74.5	55.0	0.0	31.1	NA
+14	8	2020	Campobasso	32.5	21.0	26.8	30.5	74.5	52.5	0.0	31.1	NA
+15	8	2020	Campobasso	31.1	19.2	25.2	41.5	81.0	61.3	6.7	27.4	NA
+16	8	2020	Campobasso	32.1	18.7	25.4	32.0	81.3	56.6	35.0	39.6	NA
+1	9	2020	Campobasso	24.4	12.5	18.4	38.3	79.8	59.0	0.1	29.4	NA
+2	9	2020	Campobasso	25.3	12.9	19.1	40.0	80.8	60.4	0.0	22.4	NA
+3	9	2020	Campobasso	23.4	15.9	19.7	56.0	82.0	69.0	0.5	24.9	NA
+4	9	2020	Campobasso	24.5	14.2	19.3	34.8	82.5	58.6	0.1	30.2	NA
+5	9	2020	Campobasso	29.1	14.3	21.7	23.5	68.5	46.0	0.0	24.9	NA
+6	9	2020	Campobasso	30.3	15.9	23.1	23.3	69.0	46.1	0.0	22.0	NA
+7	9	2020	Campobasso	27.9	15.6	21.8	38.3	80.5	59.4	0.0	28.0	NA
+8	9	2020	Campobasso	26.5	16.4	21.4	48.0	82.5	65.3	0.1	23.3	NA
+9	9	2020	Campobasso	29.4	15.5	22.5	37.8	80.5	59.1	0.0	20.0	NA
+10	9	2020	Campobasso	30.3	18.0	24.2	33.8	75.5	54.6	0.0	24.5	NA
+11	9	2020	Campobasso	27.9	17.1	22.5	40.8	78.3	59.5	0.0	25.3	NA
+12	9	2020	Campobasso	27.3	15.8	21.6	43.5	78.3	60.9	0.6	25.3	NA
+13	9	2020	Campobasso	27.8	17.3	22.5	38.8	77.8	58.3	0.0	29.9	NA
+14	9	2020	Campobasso	27.6	17.5	22.5	40.0	69.0	54.5	0.0	29.0	NA
+15	9	2020	Campobasso	27.9	17.0	22.4	35.5	73.0	54.3	0.0	26.6	NA
+16	9	2020	Campobasso	27.0	16.7	21.9	38.5	77.8	58.1	0.0	23.7	NA
+17	9	2020	Campobasso	25.7	17.8	21.8	45.0	75.3	60.1	0.0	24.6	NA
+18	9	2020	Campobasso	25.9	16.7	21.3	48.3	76.3	62.3	0.0	28.6	NA
+19	9	2020	Campobasso	26.5	14.9	20.7	44.5	79.5	62.0	0.0	25.0	NA
+20	9	2020	Campobasso	28.9	15.5	22.2	38.8	82.0	60.4	0.1	26.6	NA
+21	9	2020	Campobasso	24.0	16.2	20.1	50.5	80.5	65.5	0.0	21.7	NA
+22	9	2020	Campobasso	23.4	15.1	19.2	49.3	80.8	65.0	0.8	27.0	NA
+23	9	2020	Campobasso	23.8	15.8	19.8	47.0	80.5	63.8	1.9	34.3	NA
+24	9	2020	Campobasso	24.9	14.8	19.8	43.5	77.3	60.4	0.0	35.5	NA
+25	9	2020	Campobasso	22.1	11.7	16.9	60.3	83.0	71.6	24.2	50.7	NA
+26	9	2020	Campobasso	15.8	6.8	11.3	42.3	83.0	62.6	6.8	47.3	NA
+27	9	2020	Campobasso	17.1	9.1	13.1	56.8	87.3	72.0	31.7	49.4	NA
+28	9	2020	Campobasso	14.7	9.8	12.2	61.8	84.8	73.3	2.6	66.2	NA
+29	9	2020	Campobasso	20.1	8.4	14.2	41.0	84.0	62.5	0.0	32.4	NA
+30	9	2020	Campobasso	20.8	9.6	15.2	50.5	82.0	66.3	0.1	15.1	NA
+1	10	2020	Campobasso	21.3	10.9	16.1	51.0	83.3	67.1	0.1	23.1	NA
+2	10	2020	Campobasso	22.9	11.6	17.2	33.8	81.5	57.6	0.1	30.6	NA
+3	10	2020	Campobasso	25.7	17.1	21.4	43.3	76.3	59.8	0.0	45.9	NA
+4	10	2020	Campobasso	20.4	12.5	16.4	42.8	75.8	59.3	0.4	51.5	NA
+5	10	2020	Campobasso	20.5	13.4	16.9	46.8	68.8	57.8	0.0	48.1	NA
+6	10	2020	Campobasso	20.6	11.9	16.3	33.8	68.8	51.3	0.0	34.9	NA
+7	10	2020	Campobasso	16.2	11.3	13.7	60.5	84.5	72.5	6.0	39.7	NA
+8	10	2020	Campobasso	17.0	9.7	13.3	42.0	81.3	61.6	0.1	35.2	NA
+9	10	2020	Campobasso	21.1	9.6	15.4	26.0	64.0	45.0	0.0	22.3	NA
+10	10	2020	Campobasso	21.8	10.6	16.2	37.8	77.8	57.8	0.0	22.5	NA
+11	10	2020	Campobasso	16.1	11.4	13.8	70.3	83.8	77.0	4.0	34.0	NA
+12	10	2020	Campobasso	15.3	7.7	11.5	58.0	83.5	70.8	4.3	28.5	NA
+13	10	2020	Campobasso	12.5	5.8	9.2	64.0	84.5	74.3	4.8	25.3	NA
+14	10	2020	Campobasso	17.0	6.7	11.8	51.8	83.3	67.5	0.7	34.7	NA
+15	10	2020	Campobasso	16.8	10.1	13.5	52.8	81.0	66.9	7.2	59.2	NA
+16	10	2020	Campobasso	14.4	7.6	11.0	54.5	80.0	67.3	0.8	46.7	NA
+17	10	2020	Campobasso	15.7	6.8	11.2	58.0	85.3	71.6	1.1	23.6	NA
+18	10	2020	Campobasso	14.8	6.6	10.7	63.8	85.8	74.8	0.4	20.4	NA
+19	10	2020	Campobasso	16.9	6.8	11.8	45.0	85.5	65.3	0.3	16.4	NA
+20	10	2020	Campobasso	18.1	7.6	12.8	44.5	84.0	64.3	0.0	13.9	NA
+21	10	2020	Campobasso	19.6	6.9	13.2	40.8	80.5	60.6	0.1	15.1	NA
+22	10	2020	Campobasso	20.6	7.8	14.2	47.0	82.0	64.5	0.1	13.1	NA
+23	10	2020	Campobasso	21.4	7.7	14.6	46.8	83.3	65.0	0.1	16.8	NA
+24	10	2020	Campobasso	16.2	10.8	13.5	70.0	83.0	76.5	4.5	36.0	NA
+25	10	2020	Campobasso	18.2	9.7	14.0	52.0	80.5	66.3	0.1	30.1	NA
+26	10	2020	Campobasso	17.7	9.3	13.5	50.5	80.3	65.4	0.0	38.3	NA
+27	10	2020	Campobasso	14.9	9.3	12.1	62.5	83.5	73.0	5.7	35.1	NA
+28	10	2020	Campobasso	14.9	8.2	11.5	64.5	83.3	73.9	0.1	27.8	NA
+29	10	2020	Campobasso	16.3	6.9	11.6	57.0	83.8	70.4	0.2	18.0	NA
+30	10	2020	Campobasso	18.7	8.8	13.7	53.3	83.8	68.5	0.1	13.6	NA
+31	10	2020	Campobasso	22.1	10.2	16.2	41.8	81.5	61.6	0.1	15.6	NA
+23	11	2020	Campobasso	14.2	5.2	9.7	68.0	85.0	76.5	0.0	15.5	NA
+24	11	2020	Campobasso	10.2	6.8	8.5	68.0	84.0	76.0	0.0	23.8	NA
+25	11	2020	Campobasso	9.5	5.2	7.35	80.0	85.0	82.5	0.0	10.1	NA
+26	11	2020	Campobasso	13.3	5.2	9.25	70.0	97.0	83.5	0.2	8.0	NA
+27	11	2020	Campobasso	13.8	5.2	9.5	46.0	87.0	66.5	0.0	11.9	NA
+28	11	2020	Campobasso	9.3	6.1	7.7	77.0	87.0	82.0	0.2	15.5	NA
+29	11	2020	Campobasso	9.8	8.0	8.9	83.0	86.0	84.5	13.0	23.8	NA
+30	11	2020	Campobasso	8.9	3.7	6.3	72.0	85.0	78.5	0.4	27.4	NA
+1	12	2020	Campobasso	8.8	1.1	5.35	77.0	97.0	87.0	0.2	8.0	NA
+2	12	2020	Campobasso	11.7	5.9	8.8	64.0	86.0	75.0	11.6	39.2	NA
+3	12	2020	Campobasso	9.7	6.5	8.1	76.0	86.0	81.0	6.2	46.1	NA
+4	12	2020	Campobasso	10.5	1.9	6.2	62.0	87.0	74.5	0.2	30.6	NA
+5	12	2020	Campobasso	15.4	9.3	12.35	41.0	76.0	58.5	0.0	34.2	NA
+6	12	2020	Campobasso	12.1	4.7	8.4	73.0	88.0	80.5	32.8	48.3	NA
+7	12	2020	Campobasso	10.0	3.3	6.7	62.0	93.0	77.5	0.0	20.9	NA
+8	12	2020	Campobasso	9.6	5.9	7.8	76.0	94.0	85.0	14.0	41.8	NA
+9	12	2020	Campobasso	8.3	5.1	6.7	73.0	94.0	83.5	6.6	29.0	NA
+10	12	2020	Campobasso	9.3	2.5	5.9	65.0	93.0	79.0	0.0	16.1	NA
+11	12	2020	Campobasso	6.0	3.1	4.6	86.0	95.0	90.5	0.0	12.9	NA
+12	12	2020	Campobasso	10.0	3.3	6.7	65.0	95.0	80.0	0.0	17.7	NA
+13	12	2020	Campobasso	6.9	3.6	5.3	75.0	95.0	85.0	3.6	30.6	NA
+14	12	2020	Campobasso	9.4	2.5	6.0	53.0	93.0	73.0	0.0	35.4	NA
+15	12	2020	Campobasso	10.8	2.9	6.9	41.0	89.0	65.0	0.0	9.7	NA
+16	12	2020	 Campobasso e Pescolanciano	16.25	7.2	11.0	NA	NA	55.0	0.0	2.55	W
+16	12	2020	Campobasso	14.5	2.9	8.7	34.0	90.0	62.0	0.0	4.8	NA
+17	12	2020	 Campobasso e Pescolanciano	17.5	5.8	10.85	NA	NA	53.0	0.0	2.3	SE
+17	12	2020	Campobasso	11.6	3.3	7.5	51.0	93.0	72.0	0.0	6.4	NA
+18	12	2020	 Campobasso e Pescolanciano	13.3	4.9	9.05	NA	NA	47.0	0.0	1.35	SSE
+18	12	2020	Campobasso	12.6	3.7	8.2	64.0	97.0	80.5	0.2	3.2	NA
+19	12	2020	 Campobasso e Pescolanciano	8.0	3.4	5.75	NA	NA	46.0	27.2	3.3	S
+19	12	2020	Campobasso	10.4	4.9	7.7	73.0	95.0	84.0	0.2	8.0	NA
+20	12	2020	 Campobasso e Pescolanciano	11.5	2.3	7.95	NA	NA	58.0	1.0	7.2	S
+20	12	2020	Campobasso	11.3	4.7	8.0	74.0	97.0	85.5	0.2	9.7	NA
+21	12	2020	 Campobasso e Pescolanciano	12.9	10.2	11.5	NA	NA	50.0	33.8	15.85	S
+22	12	2020	 Campobasso e Pescolanciano	12.85	5.7	9.6	NA	NA	61.5	13.7	16.0	S
+23	12	2020	 Campobasso e Pescolanciano	12.15	1.6	6.2	NA	NA	50.0	0.2	7.15	W
+24	12	2020	 Campobasso e Pescolanciano	12.85	0.25	5.1	NA	NA	34.0	0.1	5.05	SSW
+25	12	2020	 Campobasso e Pescolanciano	14.05	0.65	5.5	NA	NA	37.5	0.0	2.65	SSW
+26	12	2020	 Campobasso e Pescolanciano	9.45	-1.2	2.65	NA	NA	41.0	0.2	4.1	N
+27	12	2020	 Campobasso e Pescolanciano	10.3	-1.6	2.7	NA	NA	39.5	0.1	1.3	SE
+28	12	2020	 Campobasso e Pescolanciano	2.4	-3.0	0.05	NA	NA	40.0	1.2	10.4	E
+29	12	2020	 Campobasso e Pescolanciano	2.15	-1.25	-0.05	NA	NA	76.5	0.0	11.55	NNW
+30	12	2020	 Campobasso e Pescolanciano	2.8	-2.4	0.25	NA	NA	79.0	0.5	10.3	NNW
+31	12	2020	 Campobasso e Pescolanciano	7.5	-4.8	0.4	NA	NA	52.5	3.7	4.05	SSW
+1	1	2021	Larino	13.3	1.1	6.7	NA	NA	69.5	0.0	5.2	SE
+2	1	2021	Larino	13.4	3.3	8.8	NA	NA	80.0	4.6	11.5	SE
+3	1	2021	Larino	11.4	0.4	8.5	NA	NA	67.0	0.0	14.9	SSE
+4	1	2021	Larino	12.7	1.5	6.6	NA	NA	72.0	0.0	5.1	SE
+5	1	2021	Larino	8.8	1.7	5.9	NA	NA	59.0	28.2	8.6	S
+6	1	2021	Larino	11.4	5.9	8.3	NA	NA	56.0	0.0	9.2	S
+7	1	2021	Larino	7.2	1.8	4.2	NA	NA	76.0	7.9	3.1	SSW
+8	1	2021	Larino	6.1	2.8	4.5	NA	NA	83.0	2.3	1.2	SE
+9	1	2021	Larino	5.8	3.5	4.7	NA	NA	68.0	7.9	1.3	ESE
+10	1	2021	Larino	6.4	3.6	4.8	NA	NA	67.5	16.3	1.0	SW
+11	1	2021	Larino	5.9	3.2	4.2	NA	NA	74.5	1.3	1.3	SE
+12	1	2021	Larino	8.9	0.9	4.2	NA	NA	78.0	3.5	1.5	SE
+13	1	2021	Larino	12.9	-1.2	3.8	NA	NA	82.5	0.3	2.2	SE
+14	1	2021	Larino	15.0	-0.3	8.1	NA	NA	78.5	3.0	8.5	SE
+15	1	2021	Larino	8.0	0.2	4.2	NA	NA	84.0	0.0	2.8	NW
+16	1	2021	Larino-Montemitro 	4.8	-0.4	2.7	NA	NA	79.0	0.3	5.0	NW
+17	1	2021	Larino-Montemitro 	6.0	-3.6	1.4	NA	NA	76.0	0.3	2.5	SE
+18	1	2021	Larino-Montemitro 	8.0	-1.2	2.9	NA	NA	73.5	6.1	2.7	NW
+19	1	2021	Larino-Montemitro 	12.9	-3.7	4.0	NA	NA	80.5	0.0	4.8	SSE
+20	1	2021	Larino-Montemitro 	13.7	1.9	9.0	NA	NA	69.5	0.0	5.8	SE
+21	1	2021	Larino-Montemitro 	14.5	8.8	12.4	NA	NA	74.5	0.0	14.6	S
+22	1	2021	Larino-Montemitro 	15.0	11.9	13.7	NA	NA	79.0	0.0	28.5	S
+23	1	2021	Larino-Montemitro 	13.6	8.7	11.1	NA	NA	78.0	1.3	22.9	SSE
+24	1	2021	Larino-Montemitro 	12.5	4.0	9.5	NA	NA	81.0	3.3	14.2	SE
+25	1	2021	Larino-Montemitro 	12.8	0.0	7.2	NA	NA	79.5	0.5	9.3	SE
+26	1	2021	Larino-Montemitro 	8.5	-0.6	4.3	NA	NA	87.0	3.6	5.4	NW
+27	1	2021	Larino-Montemitro 	10.0	-3.9	2.3	NA	NA	83.5	0.0	1.6	SE
+28	1	2021	Larino-Montemitro 	13.6	-2.7	5.3	NA	NA	62.0	0.0	9.3	SSE
+29	1	2021	Larino-Montemitro 	14.1	3.8	6.7	NA	NA	57.5	0.0	2.8	NE
+30	1	2021	Larino-Montemitro 	10.8	9.7	11.6	NA	NA	56.0	0.0	3.0	W
+31	1	2021	Larino-Montemitro 	10.8	8.0	8.8	NA	NA	60.5	4.1	0.6	NNE
+1	2	2021	Larino	14.5	5.8	8.9	NA	NA	90.0	0.5	1.9	NW
+2	2	2021	Larino	14.5	3.0	7.9	NA	NA	95.0	0.0	2.3	SE
+3	2	2021	Larino	17.7	4.9	11.4	NA	NA	80.0	0.0	9.7	SE
+4	2	2021	Larino	17.9	8.3	13.0	NA	NA	71.0	0.0	9.5	S
+5	2	2021	Larino	15.9	5.6	10.2	NA	NA	88.0	0.0	2.8	NW
+6	2	2021	Larino	19.7	7.2	12.6	NA	NA	95.0	0.0	5.1	NW
+7	2	2021	Larino	21.9	10.7	15.4	NA	NA	51.0	2.8	18.5	SSE
+8	2	2021	Larino	15.0	11.4	12.5	NA	NA	90.0	0.0	22.5	SSE
+9	2	2021	Larino	15.0	10.8	12.9	NA	NA	69.0	1.8	19.9	SSE
+10	2	2021	Larino	15.0	8.8	12.9	NA	NA	62.0	6.4	21.2	SSE
+11	2	2021	Larino	12.9	3.2	9.0	NA	NA	81.0	0.5	3.4	NW
+12	2	2021	Larino	736.0	2.3	5.5	NA	NA	80.0	1.0	1.4	NNE
+13	2	2021	Larino	2.3	-2.3	0.3	NA	NA	96.0	11.4	2.9	WSW
+14	2	2021	Larino	2.5	-2.4	1.0	NA	NA	82.0	0.5	14.6	NW
+15	2	2021	Larino	5.7	-3.7	1.9	NA	NA	58.0	2.3	7.6	NW
+16	2	2021	Larino	10.7	-5.8	1.9	NA	NA	82.0	0.0	3.0	SE
+17	2	2021	Larino	15.0	-0.3	6.5	NA	NA	76.0	0.0	2.0	ESE
+18	2	2021	Larino	16.6	2.8	8.5	NA	NA	80.0	0.0	2.1	ESE
+19	2	2021	Larino	16.8	1.2	8.1	NA	NA	95.0	0.0	2.6	SE
+20	2	2021	Larino	15.9	1.2	8.2	NA	NA	91.0	0.0	3.3	NNE
+21	2	2021	Larino	1.8	2.0	8.8	NA	NA	91.0	0.0	3.1	SE
+22	2	2021	Larino	15.2	1.8	7.8	NA	NA	96.0	0.0	3.7	SE
+23	2	2021	Larino	14.4	1.7	7.4	NA	NA	96.0	0.3	3.5	SSW
+24	2	2021	Larino	19.1	2.4	9.5	NA	NA	95.0	0.0	3.2	SE
+25	2	2021	Larino	19.4	1.5	9.7	NA	NA	80.0	0.0	5.0	SE
+26	2	2021	Larino	19.4	2.7	10.5	NA	NA	81.0	0.0	5.4	SE
+27	2	2021	Larino	19.3	3.1	11.0	NA	NA	80.0	0.0	4.7	SE
+28	2	2021	Larino	13.0	2.8	9.1	NA	NA	71.0	0.0	5.5	NNW
+1	3	2021	Larino	13.9	-1.5	5.7	NA	NA	90.0	0.0	3.8	SE
+2	3	2021	Larino	13.1	6.4	9.2	NA	NA	79.0	0.0	3.4	SE
+3	3	2021	Larino	10.1	3.2	10.1	NA	NA	78.0	0.0	6.0	NNE
+4	3	2021	Larino	8.2	0.2	8.2	NA	NA	69.0	0.0	3.6	SE
+5	3	2021	Larino	9.1	3.6	9.1	NA	NA	82.0	0.0	3.1	NNE
+6	3	2021	Larino	7.0	5.5	7.0	NA	NA	93.0	1.8	1.6	ESE
+7	3	2021	Larino	6.6	4.0	6.6	NA	NA	91.0	0.0	2.2	NNE
+8	3	2021	Larino	6.8	3.7	6.8	NA	NA	96.0	11.9	1.0	NNE
+9	3	2021	Larino	6.4	4.7	6.4	NA	NA	99.0	47.8	1.8	ESE
+10	3	2021	Larino	7.9	4.9	7.9	NA	NA	98.0	0.8	6.5	NW
+11	3	2021	Larino	9.7	1.0	9.7	NA	NA	70.0	0.0	8.6	SSE
+12	3	2021	Larino	13.4	11.1	13.4	NA	NA	58.0	0.0	19.4	SSE
+13	3	2021	Larino	14.6	9.0	14.6	NA	NA	70.0	0.0	14.6	SSE
+14	3	2021	Larino	11.8	4.4	11.8	NA	NA	62.0	0.8	18.1	SSE
+15	3	2021	Larino	7.4	2.1	7.4	NA	NA	85.0	1.0	7.8	NW
+16	3	2021	Larino	12.0	0.7	6.0	NA	NA	68.0	0.2	14.5	SSW
+17	3	2021	Larino	11.1	3.4	7.3	NA	NA	80.0	1.4	10.4	SSW
+18	3	2021	Larino	9.7	2.4	6.0	NA	NA	72.0	0.0	11.3	N
+19	3	2021	Larino	9.0	-0.2	4.9	NA	NA	88.0	0.0	8.8	SSW
+20	3	2021	Larino	8.1	4.2	5.5	NA	NA	69.0	0.8	10.1	SW
+21	3	2021	Larino	8.3	4.5	6.2	NA	NA	65.0	0.0	20.9	NNW
+22	3	2021	Larino	10.1	4.6	7.1	NA	NA	61.0	0.6	26.4	N
+23	3	2021	Larino	8.7	5.4	7.0	NA	NA	49.0	0.0	32.4	N
+24	3	2021	Larino	11.9	2.9	8.4	NA	NA	60.0	0.0	17.0	N
+25	3	2021	Larino	14.1	1.4	7.8	NA	NA	77.0	0.0	12.6	SSW
+26	3	2021	Larino	19.1	3.7	11.0	NA	NA	59.0	0.0	14.7	SSW
+27	3	2021	Larino	20.8	8.4	13.4	NA	NA	70.0	0.0	15.0	SSW
+28	3	2021	Larino	18.1	6.9	12.5	NA	NA	95.0	0.0	11.3	NE
+29	3	2021	Larino	17.8	6.4	11.7	NA	NA	98.0	0.0	9.7	S
+30	3	2021	Larino	18.4	5.3	12.1	NA	NA	95.0	0.0	15.0	SSW
+31	3	2021	Larino	20.0	6.4	13.2	NA	NA	72.0	4.1	11.0	S
+16	6	2021	Larino	21.9	26.6	16.9	35.0	52.0	43.5	0.0	1.7	WNW
+17	6	2021	Larino	24.3	30.1	17.7	30.0	48.0	39.0	0.0	1.4	NNW
+18	6	2021	Larino	24.9	29.1	21.1	40.0	66.0	53.0	0.0	1.4	WSW
+19	6	2021	Larino	26.7	30.7	23.2	45.0	61.0	53.0	0.0	1.5	WNW
+20	6	2021	Larino	28.2	33.3	23.4	39.0	67.0	53.0	0.0	1.1	W
+21	6	2021	Larino	31.7	36.6	27.8	28.0	45.0	36.5	0.0	5.1	W
+22	6	2021	Larino	30.0	34.1	26.7	33.0	59.0	46.0	0.0	3.4	WNW
+23	6	2021	Larino	29.7	34.7	24.9	40.0	57.0	48.5	0.0	1.4	SSW
+24	6	2021	Larino	30.7	34.6	25.1	29.0	70.0	49.5	0.0	2.8	WNW
+25	6	2021	Larino	28.1	34.2	23.2	33.0	79.0	56.0	0.0	3.5	WNW
+26	6	2021	Larino	25.7	30.2	21.1	40.0	71.0	55.5	0.0	2.1	WNW
+27	6	2021	Larino	26.0	30.3	21.7	34.0	55.0	44.5	0.0	1.6	NNW
+28	6	2021	Larino	28.0	34.4	22.4	33.0	55.0	44.0	0.0	1.8	NNE
+29	6	2021	Larino	30.8	35.8	26.1	30.0	46.0	38.0	0.0	3.7	W
+30	6	2021	Larino	29.1	34.3	24.3	30.0	59.0	44.5	0.0	5.9	W
+16	7	2021	Larino	21.7	27.3	17.3	47.0	91.0	69.0	12.4	3.0	W
+17	7	2021	Larino	19.6	23.6	17.3	70.0	95.0	82.5	6.4	3.7	W
+18	7	2021	Larino	20.7	25.2	17.7	67.0	90.0	78.5	1.2	6.7	W
+19	7	2021	Larino	22.0	25.2	20.0	64.0	90.0	77.0	4.4	7.3	W
+20	7	2021	Larino	24.2	28.8	20.4	45.0	80.0	62.5	0.0	4.1	W
+21	7	2021	Larino	26.3	30.7	21.8	37.0	57.0	47.0	0.0	1.9	WNW
+22	7	2021	Larino	25.4	29.1	21.8	31.0	57.0	44.0	0.0	2.6	WNW
+23	7	2021	Larino	26.0	30.9	20.7	31.0	52.0	41.5	0.0	1.2	WNW
+24	7	2021	Larino	28.4	34.3	22.1	38.0	62.0	50.0	0.0	1.3	WNW
+25	7	2021	Larino	29.8	33.6	25.2	21.0	60.0	40.5	0.0	3.7	SW
+26	7	2021	Larino	31.4	36.1	28.6	18.0	32.0	25.0	0.0	6.0	WNW
+27	7	2021	Larino	31.2	35.8	28.4	24.0	45.0	34.5	0.0	2.8	WSW
+28	7	2021	Larino	33.4	38.9	28.2	20.0	28.0	24.0	0.0	5.1	W
+29	7	2021	Larino	30.5	34.2	24.2	23.0	60.0	41.5	0.0	2.7	NW
+30	7	2021	Larino	30.1	34.2	24.4	27.0	40.0	33.5	0.0	2.1	WSW
+31	7	2021	Larino	32.8	39.0	28.1	19.0	50.0	34.5	0.0	4.5	WSW
+1	8	2021	Larino	32.2	36.4	28.0	25.0	35.0	30.0	0.0	7.7	W
+2	8	2021	Larino	26.0	29.4	21.8	45.0	75.0	60.0	0.0	2.9	WNW
+3	8	2021	Larino	24.6	29.8	20.8	35.0	74.0	54.5	0.0	1.4	W
+4	8	2021	Larino	28.9	35.8	23.7	26.0	50.0	38.0	0.0	3.2	W
+5	8	2021	Larino	26.6	30.9	23.2	31.0	71.0	51.0	0.0	5.4	W
+6	8	2021	Larino	25.0	29.4	21.4	30.0	65.0	47.5	0.0	3.5	W
+7	8	2021	Larino	29.1	34.9	22.6	32.0	60.0	46.0	0.0	2.8	SW
+8	8	2021	Larino	31.6	37.0	26.3	25.0	45.0	35.0	0.0	4.4	W
+9	8	2021	Larino	29.5	34.4	26.0	32.0	68.0	50.0	0.0	2.6	WNW
+10	8	2021	Larino	28.5	34.4	24.3	40.0	91.0	65.5	0.0	1.8	WNW
+11	8	2021	Larino	27.0	31.7	23.5	40.0	92.0	66.0	0.6	1.9	W
+12	8	2021	Larino	27.8	32.0	24.5	47.0	60.0	53.5	0.2	2.7	W
+13	8	2021	Larino	29.4	34.1	25.1	31.0	60.0	45.5	0.0	1.2	N
+14	8	2021	Larino	29.3	34.6	24.8	30.0	53.0	41.5	0.0	1.5	WNW
+15	8	2021	Larino	32.1	37.4	27.3	22.0	35.0	28.5	0.0	1.9	WNW
